@@ -1,6 +1,6 @@
 # ML / DL University Lectures
 
-ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 네 분류로 정리했습니다. **확인일: 2026-10-25**. 영상의 원 학기와 자료의 학기가 다르면 각각 표시합니다.
+ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 네 분류로 정리했습니다. **확인일: 2026-10-25**. 영상의 원 학기와 자료의 학기가 다를 수 있습니다.
 
 - [한국 대학 공개강의](#한국-대학-공개강의)
 - [한국 기업 공개강의](#한국-기업-공개강의)
@@ -9,19 +9,12 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 
 ## 한국 대학 공개강의
 
-대학·강사·연구실 채널과 대학 강의 탐색 포털입니다. 채널의 개별 강의 연도와 언어는 각 영상의 안내를 확인하세요.
+대학·강사·연구실 채널과 대학 강의들입니다. 채널의 개별 강의 연도와 언어는 각 영상의 안내를 확인하세요.
 
 | 대학·강사·강좌 | 공개강의·채널 | 공식자료·형식 | 주요내용·비고 |
 | --- | --- | --- | --- |
-| KOCW · 대학 강의 검색 포털 | [홈페이지](https://www.kocw.net/home/index.do) | 대학·교수·분야·연도로 검색 | ML·DL·생성 모델 강좌 탐색. 홈페이지·검색 결과 확인, 개별 영상 상태 미확인 |
-| KAIST KOOC · 강좌 포털 | [카탈로그](https://online.kaist.ac.kr/kooc) | 아래 4강좌: 한국어·상시 운영·신청형 | 촬영·개설 학기와 신청 이후 학습 화면·영상 재생 미확인 |
-| KAIST AI605 — Deep Learning for NLP / 서민준 · [강사 채널](https://www.youtube.com/channel/UCriDmMe_Ieb8hnox1CBiFRA) | 2022 Spring · 영어 · [재생목록](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwlfX18uHYVigflooo8DMgq) | [2022 강좌·과제](https://seominjoon.github.io/kaist-ai605/) | Transformer, 언어 모델, 사전학습, NLP 실습 |
-| KAIST KOOC / 문일철 | [인공지능 및 기계학습 개론Ⅰ](https://online.kaist.ac.kr/courses/66d16fb28004c3e1b006ae1e) | 한국어·상시 운영 / 학기 미확인 | 인공지능·기계학습 기초, 개론 II로 이어지는 구성 |
-| KAIST KOOC / 문일철 | [인공지능 및 기계학습 심화](https://online.kaist.ac.kr/courses/66d16fb38004c3e1b006ae28) | 한국어·상시 운영 / 학기 미확인 | 베이지안 비모수 방법, Gaussian Process, 변분 추론, 신경망 |
-| KAIST KOOC / 문일철 | [인공지능 및 기계학습 심화 4: Normalizing Flow](https://online.kaist.ac.kr/courses/689aef5fd38b94eb8b052001) | 한국어·상시 운영 / 학기 미확인 | Normalizing Flow, 미분방정식, Neural ODE |
-| KAIST KOOC / 신하용 | [강화학습 1](https://online.kaist.ac.kr/courses/66d16fba8004c3e1b006ae6a) | 한국어·상시 운영 / 학기 미확인 | 강화학습의 수리적 기반, 전통적 알고리즘, 심층강화학습 |
-| KAIST / 문일철 · AAILab | [강의 채널](https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg) | 채널 / 강의별 연도 확인 | AI·ML |
-| KAIST / 김승룡 | [기존 강의 채널](https://www.youtube.com/channel/UCro6IqfE5NOspKCDusilfmw) | [현재 소속 CVLAB](https://cvlab.kaist.ac.kr/) | 컴퓨터 비전. 고려대 재직 시절의 기존 채널 URL 유지 |
+| KOCW · 대학 강의 검색 포털 | [홈페이지](https://www.kocw.net/home/index.do) | 대학·교수·분야·연도로 검색 | ML·DL·생성 모델 강좌 탐색. 홈페이지·검색 결과 확인 |
+| KAIST KOOC · 강좌 포털 | [카탈로그](https://online.kaist.ac.kr/kooc) | 아래 4강좌: 한국어·상시 운영·신청형 | 촬영·개설 학기와 신청 이후 학습 |
 | KAIST 스타트업 | [기존 세미나 목록](https://www.youtube.com/channel/UC7Xy68lSL9SHVgJ14bIORrQ/playlists) | 세미나 / 영상별 연도 확인 | 딥러닝 세미나 |
 | 고려대 / 김성범 | [강의 채널](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/) | 채널 / 강의별 연도 확인 | ML·DL |
 | 고려대 / 김중헌 | [강의 채널](https://www.youtube.com/user/joongheon/) | 채널 / 강의별 연도 확인 | ML·DL |
@@ -33,19 +26,20 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 | 서울대 DSBA / 강필성 | [연구실 채널](https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg) | [현재 소속·연구실 소개](https://ie.snu.ac.kr/dsba_lab/) | NLP·비전·시계열. 기존 채널 URL 유지 |
 | 서울대 AI연구원 | [채널](https://www.youtube.com/c/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90AI%EC%97%B0%EA%B5%AC%EC%9B%90) | 세미나 / 영상별 연도 확인 | AI 연구 세미나 |
 | 성균관대 / 구자환 | [강의 채널](https://www.youtube.com/c/BigDataKoo/) | 채널 / 강의별 연도 확인 | NLP·빅데이터 |
+| KAIST AI605 — Deep Learning for NLP / 서민준 · [강사 채널](https://www.youtube.com/channel/UCriDmMe_Ieb8hnox1CBiFRA) | 2022 Spring · 영어 · [재생목록](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwlfX18uHYVigflooo8DMgq) | [2022 강좌·과제](https://seominjoon.github.io/kaist-ai605/) | Transformer, 언어 모델, 사전학습, NLP 실습 |
 
 ## 한국 기업 공개강의
 
-국내 응용 학습 자료를 모았습니다. 독립 운영 채널도 포함하며, 확인되지 않은 기업 소속·직함은 부여하지 않습니다.
+국내 응용 학습 자료를 모았습니다.
 
 | 기업·운영채널 | 공개강의·학습 자료 | 연도·형식 | 주요내용·비고 |
 | --- | --- | --- | --- |
+| **Bloom AI** | [랭체인 & 랭그래프(Ver.1) 17시간 무료 강의](https://www.youtube.com/playlist?list=PLs1bbgA7gF7fbga20bvT5nIRZjKxpa25n) | 한국어 / Ver.1 · 약 17시간, 3개 항목 | LangChain·LangGraph 응용 강의 2개와 전자책 안내 |
 | 말러랩 / MahlerLab · [채널](https://www.youtube.com/@MahlerLab) | [연구자를 위한 LLM](https://www.youtube.com/playlist?list=PL0TnWnPQhDj2-TOwiz_ZhY2Sdurimss2Q) · [LLM 시대의 파이썬](https://www.youtube.com/playlist?list=PL0TnWnPQhDj2XHssyPQvDru4tZipvhmrj) · [AI Agent 입문](https://www.youtube.com/watch?v=tZ9KFQOA6NM) | LLM: 여러 연도 / 파이썬: **2024년 1학기** / Agent: 2026.4 제목 기준 | 독립 운영 채널. 연구용 LLM·파이썬·데이터 분석·챗봇. 파이썬 목록 갱신일은 원 강의 학기와 구분 |
-| **Bloom AI** | [랭체인 & 랭그래프(Ver.1) 17시간 무료 강의](https://www.youtube.com/playlist?list=PLs1bbgA7gF7fbga20bvT5nIRZjKxpa25n) | 한국어 / Ver.1 · 약 17시간, 3개 항목 | LangChain·LangGraph 응용 강의 2개와 전자책 안내. 제작사 공식 강좌와 구분; 코드 호환성 미검수 |
 
 ## 해외 대학 공개강의
 
-미국·캐나다 대학의 강좌와 교수 채널입니다. 진행 중인 강좌, 공개 영상, 자료 중심 과정과 신청형 과정을 구분했습니다. 오래된 강의는 원래 연도를 유지합니다.
+미국·캐나다 대학의 강좌와 교수 채널입니다. 진행 중인 강좌, 공개 영상, 자료 중심 과정과 신청형 과정을 구분했습니다. 오래된 강의가 있을 수 있습니다.
 
 | 대학·강사·강좌 | 공개강의·채널 | 공식자료·형식 | 주요내용·비고 |
 | --- | --- | --- | --- |
@@ -73,7 +67,7 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 | UC Berkeley CS285 — Deep Reinforcement Learning / Sergey Levine | 2023 Fall · [재생목록](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) | [2026 Spring 강좌·자료](https://rail.eecs.berkeley.edu/deeprlcourse/) | 정책 경사, actor-critic, 모델 기반·오프라인 강화학습 |
 | 미국 · UC Berkeley RDI — Agentic AI / Dawn Song 및 초청 강연자 | **2025 가을** · [강의별 녹화·슬라이드](https://agenticai-learning.org/f25) | [대학 공식 교육 목록](https://rdi.berkeley.edu/education) | LLM 에이전트, 후학습, 평가, 다중 에이전트, 실제 응용. OpenAI·Google DeepMind·Meta 등 연구자 강연 포함 |
 | NYU — Introduction to Deep Learning Research / Alfredo Canziani | 2025 Fall · [1강](https://www.youtube.com/watch?v=rg4QyMFONNQ) · [기존 재생목록·별도 영상판](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | [2025 강좌·강의별 영상·코드](https://atcold.github.io/NYU-DLFL25U/) | 신경망의 수학적 이해와 구현 |
-| UMass / Mohit Iyyer | [강의 채널](https://www.youtube.com/channel/UCKccxTTLm4_IjJdu02ZQL-Q) | 채널 / 강의별 연도 확인 | NLP |
+| UMD / Mohit Iyyer — CMSC723 Natural Language Processing | 2026 가을 · [강의 재생목록](https://www.youtube.com/playlist?list=PLFq3c7ZsRdno) | [공식 강좌·자료](https://www.cs.umd.edu/~miyyer/cmsc723/) · 진행 중 | NLP·LLM |
 | University of Michigan / Justin Johnson | [기존 재생목록](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | 기존 영상 목록 / 연도 미확인 | 컴퓨터 비전 |
 | 캐나다 · Toronto — Neural Networks for Machine Learning / Geoffrey Hinton | **2012 원 강의** · [강사 공식 영상 목록](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) | [공식 강의·슬라이드 안내](https://www.cs.toronto.edu/~hinton/talks.html) | 역전파·최적화·CNN·RNN·에너지 기반 모델. MP4 차시 목록, 유튜브 재생목록 형식 아님 |
 | 캐나다 · Toronto CSC2541 — Large Models / Chris Maddison | **2025 겨울, 자료 중심** · [공식 강좌·슬라이드·노트북](https://www.cs.toronto.edu/~cmaddis/courses/csc2541_w25/) | 자료 중심 / 공개 영상 미확인 | Llama 3 보고서를 따라 사전학습·후학습·평가·배포를 다루는 논문·코드 세미나. 공개 유튜브 강의 목록은 미확인 |

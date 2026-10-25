@@ -2,6 +2,14 @@
 
 ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 다섯 분류로 정리했습니다. **확인일: 2026-10-25**. 영상의 원 학기와 자료의 학기가 다를 수 있습니다.
 
+**시작하기 / Start here**
+
+- **처음 배우기 / ML foundations**: [머신러닝 이론](https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j) → [머신러닝 실습](https://www.youtube.com/playlist?list=PLpIPLT0Pf7Io8pMhxJ6vhM1chReYa8KIn) → [MIT 딥러닝 입문](https://introtodeeplearning.com/)
+- **LLM 직접 구현하기 / Build an LLM**: [LLM 구현 입문](https://www.youtube.com/watch?v=u1_qczBrhow) → [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) → [Stanford CS336](https://cs336.stanford.edu/)
+- **RAG·에이전트 만들기 / RAG & agents**: [랭체인·랭그래프](https://www.youtube.com/playlist?list=PLs1bbgA7gF7fbga20bvT5nIRZjKxpa25n) → [LangChain Academy](https://academy.langchain.com/) → [CMU AI Agents](https://www.cmu-agents.com/)
+
+**자료 목록 / Browse resources**
+
 - [한국 대학 공개강의](#한국-대학-공개강의)
 - [한국 기업 공개강의](#한국-기업-공개강의)
 - [해외 대학 공개강의](#해외-대학-공개강의)

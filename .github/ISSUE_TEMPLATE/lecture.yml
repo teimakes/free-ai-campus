@@ -1,0 +1,50 @@
+name: 강의 추가·업데이트·링크 수정
+description: 대학 공개 강의, 최신 학기, 교수 소속 또는 링크 수정을 제안합니다.
+title: "[강의] "
+body:
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: 제안 종류
+      options:
+        - 새 공개 강의
+        - 최신 학기·재생목록 반영
+        - 교수·연구실 소속 변경
+        - 링크 오류 수정
+    validations:
+      required: true
+  - type: input
+    id: course
+    attributes:
+      label: 강의·채널명 및 대학·강사
+      placeholder: "예: Stanford CS336 / Percy Liang·Tatsunori Hashimoto"
+    validations:
+      required: true
+  - type: input
+    id: topic_language
+    attributes:
+      label: 분야·강의 언어
+      placeholder: "예: NLP·LLM / 영어"
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: 영상 학기와 자료 학기
+      placeholder: "예: 영상 2024 Spring / 자료 2026 Winter, 또는 연도 미확인"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 공식 강좌·영상 링크
+      description: 강의 추가라면 공식 안내와 공개 영상 링크를 적어 주세요. 링크 수정이라면 기존 링크와 새 링크를 적어 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: 직접 확인한 내용·확인 날짜
+      description: 강의명, 학기, 공개 영상 연결, 소속 등 확인한 내용과 미확인 사항을 구분해 주세요.
+    validations:
+      required: true

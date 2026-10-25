@@ -2,15 +2,27 @@
 
 ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 다섯 분류로 정리했습니다. **확인일: 2026-10-25**. 영상의 원 학기와 자료의 학기가 다를 수 있습니다.
 
-Curated machine learning, deep learning, LLM, and AI agent learning resources from universities, AI companies, and creators. Includes Korean and English lectures, notes, and code.
+Free machine learning, deep learning, LLM, and AI agent lectures, notes, and code from universities, AI companies, and creators. Includes Korean and English resources, with three from-scratch learning paths.
 
 [강의·자료 제안 / Suggest a resource](https://github.com/teimakes/ml-dl-university/issues/new?template=lecture.yml) · [기여 안내 / Contributing](CONTRIBUTING.md)
 
-**시작하기 / Start here**
+## 시작하기 / Start here
 
-- **처음 배우기 / ML foundations**: [머신러닝 이론](https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j) → [머신러닝 실습](https://www.youtube.com/playlist?list=PLpIPLT0Pf7Io8pMhxJ6vhM1chReYa8KIn) → [MIT 딥러닝 입문](https://introtodeeplearning.com/)
-- **LLM 직접 구현하기 / Build an LLM**: [LLM 구현 입문](https://www.youtube.com/watch?v=u1_qczBrhow) → [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) → [Stanford CS336](https://cs336.stanford.edu/)
-- **RAG·에이전트 만들기 / RAG & agents**: [랭체인·랭그래프](https://www.youtube.com/playlist?list=PLs1bbgA7gF7fbga20bvT5nIRZjKxpa25n) → [LangChain Academy](https://academy.langchain.com/) → [CMU AI Agents](https://www.cmu-agents.com/)
+![ML/DL from scratch, LLM from scratch, AI Agent from scratch: 대학 공개강의 9개로 고른 세 학습 경로](docs/assets/from-scratch-roadmap.svg)
+
+**무료 공개 강의·노트·코드로 배웁니다.** 이 저장소는 무료 학습 자료를 모읍니다. API·GPU 사용료와 유료 인증서는 별도입니다.
+
+아래는 이 저장소의 대학 강의에서 고른 추천 학습 순서입니다. 각 경로의 마지막 열은 직접 만들어 볼 과제입니다.
+
+| 경로 | 대학 강의 순서 | 직접 만들어 볼 것 |
+| --- | --- | --- |
+| **ML/DL from scratch** | ① [서울대 ML/DL I](https://vip.snu.ac.kr/viplab/courses/mldl1_2026_1/index.html) → ② [MIT 6.S191](https://introtodeeplearning.com/) → ③ [Stanford CS231n](https://cs231n.github.io/) | NumPy로 역전파 계산 → 이미지 분류기 학습 |
+| **LLM from scratch** | ① [Stanford CS224N](https://web.stanford.edu/class/cs224n/) → ② [Stanford CS336](https://cs336.stanford.edu/) → ③ [CMU 11-711](https://cmu-l3.github.io/anlp-spring2026/) | 토크나이저·Transformer 구현 → 작은 언어 모델 학습·평가 |
+| **AI Agent from scratch** | ① [Stanford CS221](https://stanford-cs221.github.io/autumn2025/) → ② [CMU 11-768](https://www.cmu-agents.com/) → ③ [Stanford CS329A](https://cs329a.stanford.edu/) | 도구 호출·실행 루프 구현 → 코딩 에이전트 평가 |
+
+공통 준비는 Python·선형대수·미분·확률입니다. LLM 경로는 신경망·PyTorch 기본기를 배운 뒤에, Agent 경로는 언어 모델의 기본 구조를 익힌 뒤에 시작하세요.
+
+**연도 안내:** CS231n은 2026 자료·2025 공개 영상, CS224N은 2026 자료·2024 공개 영상입니다. CMU 11-768은 2026 가을 학기 진행 중이며 공개 차시가 추가됩니다. 나머지 영상·자료 링크와 학기는 아래 대학 목록에서 확인할 수 있습니다.
 
 **자료 목록 / Browse resources**
 
@@ -99,6 +111,9 @@ Curated machine learning, deep learning, LLM, and AI agent learning resources fr
 
 | 채널 | 공개강의 | 공개자료 | 주요내용 |
 | --- | --- | --- | --- |
+| [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | [강의 노트·코드](https://github.com/karpathy/nn-zero-to-hero) | micrograd·makemore·GPT·BPE 토크나이저를 직접 구현하는 보충 강의 |
+| [Umar Jamil](https://www.youtube.com/@umarjamilai/videos) | [Building a distributed training framework from first principles](https://www.youtube.com/watch?v=XoGvCBRnwLs) | [TorchFeather 코드](https://github.com/hkproj/torchfeather) | **2026-08-18** · PyTorch 분산 학습, DDP·FSDP·파이프라인·텐서·전문가 병렬화. Transformer 구현 이후의 심화 자료 |
+| [Umar Jamil](https://www.youtube.com/@umarjamilai/videos) | [Coding a Transformer from scratch](https://www.youtube.com/watch?v=ISNdQcPhsts) | [구현 코드](https://github.com/hkproj/pytorch-transformer) | 2023 공개 영상 · Attention·Transformer·학습·추론을 따라 구현하는 보충 강의 |
 | [Vizuara](https://www.youtube.com/@vizuara) | [신경망 직접 구현](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) | 강의 별 description에 학습 자료 링크 제공 | 뉴런·레이어·활성함수를 코드로 구현하며 신경망 기초 학습 |
 | [Vizuara](https://www.youtube.com/@vizuara) | [SLM 직접 만들기](https://www.youtube.com/watch?v=pOFcwcwtv3k) | [Colab 노트북](https://colab.research.google.com/drive/1k4G3G5MxYLxawmPfAknUN7dbbmyqldQv?usp=sharing)  | 소형 언어 모델 직접 구현 워크숍 |
 | [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) | [LLM 영상 목록](https://www.youtube.com/playlist?list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm) |  | LLM·추론 모델의 원리와 구현 해설 |
@@ -114,6 +129,7 @@ Curated machine learning, deep learning, LLM, and AI agent learning resources fr
 
 강좌 소개와 공개 목록을 확인한 범위이며, 전체 영상 시청·모든 차시 재생·과제 실행·코드 호환성을 검수한 것은 아닙니다. 자세한 출처와 미확인 사항은 아래 기록에 있습니다.
 
+- [From scratch 구성·공식 출처·참고 저장소](docs/from-scratch-roadmap-2026-10-25.md)
 - [기존 강의 확인 기록](docs/verification-2026-10-25.md)
 - [KOCW·KOOC·이준석·말러랩 확인 기록](docs/additional-sources-2026-10-25.md)
 - [대학·기업 확장 목록 확인 기록](docs/global-resources-2026-10-25.md)

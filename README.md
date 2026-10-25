@@ -11,22 +11,22 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 
 대학·강사·연구실 채널과 대학 강의들입니다. 채널의 개별 강의 연도와 언어는 각 영상의 안내를 확인하세요.
 
-| 대학·강사·강좌 | 공개강의·채널 | 공식자료·형식 | 주요내용·비고 |
-| --- | --- | --- | --- |
-| KOCW · 대학 강의 검색 포털 | [홈페이지](https://www.kocw.net/home/index.do) | 대학·교수·분야·연도로 검색 | ML·DL·생성 모델 강좌 탐색. 홈페이지·검색 결과 확인 |
-| KAIST KOOC · 강좌 포털 | [카탈로그](https://online.kaist.ac.kr/kooc) | 아래 4강좌: 한국어·상시 운영·신청형 | 촬영·개설 학기와 신청 이후 학습 |
-| KAIST 스타트업 | [기존 세미나 목록](https://www.youtube.com/channel/UC7Xy68lSL9SHVgJ14bIORrQ/playlists) | 세미나 / 영상별 연도 확인 | 딥러닝 세미나 |
-| 고려대 / 김성범 | [강의 채널](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/) | 채널 / 강의별 연도 확인 | ML·DL |
-| 고려대 / 김중헌 | [강의 채널](https://www.youtube.com/user/joongheon/) | 채널 / 강의별 연도 확인 | ML·DL |
-| 국민대 / 강승식 | [강의 채널](https://www.youtube.com/channel/UC9BQ1zJdpPBit9V3IFx8GDw/) | 채널 / 강의별 연도 확인 | NLP |
-| 서울대 이준석 — 머신러닝 및 딥러닝 1 | 2026 봄 · [재생목록](https://www.youtube.com/playlist?list=PL0E_1UqNACXCpyohL0_uMNaqr0QuXOMBi) | [Spring 2026 강좌·슬라이드](https://vip.snu.ac.kr/viplab/courses/mldl1_2026_1/index.html) | 머신러닝·딥러닝 기초 |
-| 서울대 이준석 — 컴퓨터비전 — 시각적 이해를 위한 기계학습 | 2026 봄 · [재생목록](https://www.youtube.com/playlist?list=PL0E_1UqNACXABu9ft6PTRKaIvydxHJ9_w) — 일부 2025 영상 포함 | [Spring 2026 강좌·슬라이드](https://vip.snu.ac.kr/viplab/courses/mlvu_2026_1/index.html) | 컴퓨터 비전. 목록에 2025 Metric Learning 녹화도 포함 |
-| 서울대 데이터사이언스대학원 / 이준석 | [채널](https://www.youtube.com/@LeeJoonseok) · [연구실 강좌 목록](https://vip.snu.ac.kr/viplab/courses.html) | 여러 학기 / 위 표의 개별 목록은 2026 봄 표기 | 공식 목록의 2026 가을 개설과 가을 영상 공개는 구분 |
-| 서울대 / 윤성로 | [강의 채널](https://www.youtube.com/channel/UCEkAV8kTc87PogbVLq-nd6A) | 채널 / 강의별 연도 확인 | ML·DL |
-| 서울대 DSBA / 강필성 | [연구실 채널](https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg) | [현재 소속·연구실 소개](https://ie.snu.ac.kr/dsba_lab/) | NLP·비전·시계열. 기존 채널 URL 유지 |
-| 서울대 AI연구원 | [채널](https://www.youtube.com/c/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90AI%EC%97%B0%EA%B5%AC%EC%9B%90) | 세미나 / 영상별 연도 확인 | AI 연구 세미나 |
-| 성균관대 / 구자환 | [강의 채널](https://www.youtube.com/c/BigDataKoo/) | 채널 / 강의별 연도 확인 | NLP·빅데이터 |
-| KAIST AI605 — Deep Learning for NLP / 서민준 · [강사 채널](https://www.youtube.com/channel/UCriDmMe_Ieb8hnox1CBiFRA) | 2022 Spring · 영어 · [재생목록](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwlfX18uHYVigflooo8DMgq) | [2022 강좌·과제](https://seominjoon.github.io/kaist-ai605/) | Transformer, 언어 모델, 사전학습, NLP 실습 |
+| 대학교·교수 | 강좌 | 공개강의·채널 | 공식자료·형식 | 주요내용·비고 |
+| --- | --- | --- | --- | --- |
+| KOCW | 대학 강의 검색 포털 | [홈페이지](https://www.kocw.net/home/index.do) | 대학·교수·분야·연도로 검색 | ML·DL·생성 모델 강좌 탐색. 홈페이지·검색 결과 확인 |
+| KAIST KOOC | 강좌 포털 | [카탈로그](https://online.kaist.ac.kr/kooc) | 아래 4강좌: 한국어·상시 운영·신청형 | 촬영·개설 학기와 신청 이후 학습 |
+| KAIST 스타트업 | 딥러닝 세미나 | [기존 세미나 목록](https://www.youtube.com/channel/UC7Xy68lSL9SHVgJ14bIORrQ/playlists) | 세미나 / 영상별 연도 확인 | 딥러닝 세미나 |
+| 고려대 / 김성범 | 강의 모음 | [강의 채널](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/) | 채널 / 강의별 연도 확인 | ML·DL |
+| 고려대 / 김중헌 | 강의 모음 | [강의 채널](https://www.youtube.com/user/joongheon/) | 채널 / 강의별 연도 확인 | ML·DL |
+| 국민대 / 강승식 | 강의 모음 | [강의 채널](https://www.youtube.com/channel/UC9BQ1zJdpPBit9V3IFx8GDw/) | 채널 / 강의별 연도 확인 | NLP |
+| 서울대 / 이준석 | 머신러닝 및 딥러닝 1 | 2026 봄 · [재생목록](https://www.youtube.com/playlist?list=PL0E_1UqNACXCpyohL0_uMNaqr0QuXOMBi) | [Spring 2026 강좌·슬라이드](https://vip.snu.ac.kr/viplab/courses/mldl1_2026_1/index.html) | 머신러닝·딥러닝 기초 |
+| 서울대 / 이준석 | 컴퓨터비전 — 시각적 이해를 위한 기계학습 | 2026 봄 · [재생목록](https://www.youtube.com/playlist?list=PL0E_1UqNACXABu9ft6PTRKaIvydxHJ9_w) — 일부 2025 영상 포함 | [Spring 2026 강좌·슬라이드](https://vip.snu.ac.kr/viplab/courses/mlvu_2026_1/index.html) | 컴퓨터 비전. 목록에 2025 Metric Learning 녹화도 포함 |
+| 서울대 데이터사이언스대학원 / 이준석 | 연구실 강좌 목록 | [채널](https://www.youtube.com/@LeeJoonseok) · [연구실 강좌 목록](https://vip.snu.ac.kr/viplab/courses.html) | 여러 학기 / 위 표의 개별 목록은 2026 봄 표기 | 공식 목록의 2026 가을 개설과 가을 영상 공개는 구분 |
+| 서울대 / 윤성로 | 강의 모음 | [강의 채널](https://www.youtube.com/channel/UCEkAV8kTc87PogbVLq-nd6A) | 채널 / 강의별 연도 확인 | ML·DL |
+| 서울대 DSBA / 강필성 | 연구실 강의 모음 | [연구실 채널](https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg) | [현재 소속·연구실 소개](https://ie.snu.ac.kr/dsba_lab/) | NLP·비전·시계열. 기존 채널 URL 유지 |
+| 서울대 AI연구원 | AI 연구 세미나 | [채널](https://www.youtube.com/c/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90AI%EC%97%B0%EA%B5%AC%EC%9B%90) | 세미나 / 영상별 연도 확인 | AI 연구 세미나 |
+| 성균관대 / 구자환 | 강의 모음 | [강의 채널](https://www.youtube.com/c/BigDataKoo/) | 채널 / 강의별 연도 확인 | NLP·빅데이터 |
+| KAIST / 서민준 | AI605 — Deep Learning for NLP | 2022 Spring · 영어 · [재생목록](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwlfX18uHYVigflooo8DMgq) · [강사 채널](https://www.youtube.com/channel/UCriDmMe_Ieb8hnox1CBiFRA) | [2022 강좌·과제](https://seominjoon.github.io/kaist-ai605/) | Transformer, 언어 모델, 사전학습, NLP 실습 |
 
 ## 한국 기업 공개강의
 

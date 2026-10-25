@@ -6,7 +6,7 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 - [한국 기업 공개강의](#한국-기업-공개강의)
 - [해외 대학 공개강의](#해외-대학-공개강의)
 - [해외 기업 공개강의](#해외-기업-공개강의)
-- [해외 유튜브 채널](#해외-유튜브-채널)
+- [유튜브 채널](#유튜브-채널)
 
 ## 한국 대학 공개강의
 
@@ -81,20 +81,19 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 | Hugging Face | [전체 Learn](https://huggingface.co/learn) | 텍스트·영상·노트북 | Transformers, 데이터·토크나이저, 미세조정, 추론 모델, 에이전트 구현 |
 | Microsoft | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Version 3 · 21레슨 | 개념 설명·짧은 영상·Python/TypeScript 예제. 저장소에 한국어 번역 링크 제공 |
 
-## 해외 유튜브 채널
+## 유튜브 채널
 
 유튜버·독립 연구자·교육 채널의 공개 강의와 학습 자료입니다.
 
 | 채널 | 공개강의 | 공개자료 | 주요내용 |
 | --- | --- | --- | --- |
-| [Vizuara](https://www.youtube.com/@vizuara) | [신경망 직접 구현](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) |  | 뉴런·레이어·활성함수를 코드로 구현하며 신경망 기초 학습 |
-| [Vizuara](https://www.youtube.com/@vizuara) | [ML: Teach by Doing](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L) |  | 실습을 통한 머신러닝 학습 |
-| [Vizuara](https://www.youtube.com/@vizuara) | [SLM 직접 만들기](https://www.youtube.com/watch?v=pOFcwcwtv3k) |  | 소형 언어 모델 직접 구현 워크숍 |
+| [Vizuara](https://www.youtube.com/@vizuara) | [신경망 직접 구현](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) | 강의 별 description에 학습 자료 링크 제공 | 뉴런·레이어·활성함수를 코드로 구현하며 신경망 기초 학습 |
+| [Vizuara](https://www.youtube.com/@vizuara) | [SLM 직접 만들기](https://www.youtube.com/watch?v=pOFcwcwtv3k) | [Colab 노트북](https://colab.research.google.com/drive/1k4G3G5MxYLxawmPfAknUN7dbbmyqldQv?usp=sharing)  | 소형 언어 모델 직접 구현 워크숍 |
 | [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) | [LLM 영상 목록](https://www.youtube.com/playlist?list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm) |  | LLM·추론 모델의 원리와 구현 해설 |
 | [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) |  | [LLMs from Scratch 코드](https://github.com/rasbt/LLMs-from-scratch) | PyTorch로 토크나이저·Attention·LLM 구현, 사전학습·미세조정 |
 | [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) |  | [Reasoning from Scratch 코드](https://github.com/rasbt/reasoning-from-scratch) | 추론 모델 구현, 평가·추론 시 연산 확장·강화학습·증류 |
-| [Lera Andronova](https://www.youtube.com/@lerabyte) | [LLM 원리·직접 구현 입문](https://www.youtube.com/watch?v=u1_qczBrhow) |  | 언어 모델의 작동 원리와 구현 입문 |
-| [Justin Angel](https://www.youtube.com/@JustinAngelAI) | [Build Your Own LLM Workshop](https://www.youtube.com/playlist?list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6) |  | PyTorch·토크나이저·Attention·사전학습·평가·instruction tuning·강화학습. 갱신판과 이전 영상 함께 포함 |
+| [Lera Andronova](https://www.youtube.com/@lerabyte) | [LLM 직접 구현 입문](https://www.youtube.com/watch?v=u1_qczBrhow) | [예제 코드](https://github.com/lerabyte/llm-build) | 언어 모델의 작동 원리와 구현 입문 |
+| [Justin Angel](https://www.youtube.com/@JustinAngelAI) | [Build Your Own LLM Workshop](https://www.youtube.com/playlist?list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6) | 강의 별 description에 학습 자료 링크 제공 | PyTorch·토크나이저·Attention·사전학습·평가·instruction tuning·강화학습 |
 | [Syntax](https://www.youtube.com/@syntaxfm) | [LLMs Explained](https://www.youtube.com/watch?v=YmLp8qe87A0) | [예제 코드](https://github.com/w3cj/how-llms-work) | 토큰·임베딩·Transformer의 원리와 코드 실습 |
 | [AI Engineer](https://www.youtube.com/@aiDotEngineer) | [Training an LLM from Scratch, Locally](https://www.youtube.com/watch?v=UsB70Tf5zcE) |  | 로컬 환경에서 LLM 학습. ElevenLabs의 Angelos Perivolaropoulos 발표 |
 

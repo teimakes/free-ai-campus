@@ -1,10 +1,10 @@
-# ML / DL University Lectures
+# Free AI Campus
 
 **무료로 공개된 강의·노트·코드를 모았습니다.**
 
 Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 
-[강의·자료 제안 / Suggest a resource](https://github.com/teimakes/ml-dl-university/issues/new?template=lecture.yml) · [기여 안내 / Contributing](CONTRIBUTING.md)
+[강의·자료 제안 / Suggest a resource](https://github.com/teimakes/free-ai-campus/issues/new?template=lecture.yml) · [기여 안내 / Contributing](CONTRIBUTING.md)
 
 ## 시작하기 / Start here
 

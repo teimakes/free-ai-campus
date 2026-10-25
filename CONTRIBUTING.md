@@ -1,6 +1,6 @@
 # 기여 안내 / Contributing
 
-[강의·자료 제안](https://github.com/teimakes/ml-dl-university/issues/new?template=lecture.yml)을 남기거나, [README](README.md)를 수정한 PR을 보내 주세요.
+[강의·자료 제안](https://github.com/teimakes/free-ai-campus/issues/new?template=lecture.yml)을 남기거나, [README](README.md)를 수정한 PR을 보내 주세요.
 
 ## 자료 추가 기준
 

@@ -11,99 +11,74 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 
 대학·강사·연구실 채널과 대학 강의들입니다. 채널의 개별 강의 연도와 언어는 각 영상의 안내를 확인하세요.
 
-| 대학교·교수 | 강좌 | 공개강의·채널 | 공식자료·형식 | 주요내용·비고 |
+| 대학교/교수 | 강좌 | 채널 | 공식자료 | 주요내용 |
 | --- | --- | --- | --- | --- |
-| KOCW | 대학 강의 검색 포털 | [홈페이지](https://www.kocw.net/home/index.do) | 대학·교수·분야·연도로 검색 | ML·DL·생성 모델 강좌 탐색. 홈페이지·검색 결과 확인 |
-| KAIST KOOC | 강좌 포털 | [카탈로그](https://online.kaist.ac.kr/kooc) | 아래 4강좌: 한국어·상시 운영·신청형 | 촬영·개설 학기와 신청 이후 학습 |
-| KAIST 스타트업 | 딥러닝 세미나 | [기존 세미나 목록](https://www.youtube.com/channel/UC7Xy68lSL9SHVgJ14bIORrQ/playlists) | 세미나 / 영상별 연도 확인 | 딥러닝 세미나 |
-| 고려대 / 김성범 | 핵심 머신러닝·파이썬 실습·AI/ML 세미나 | [강의 채널](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/) · [핵심 머신러닝](https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j) · [파이썬 실습](https://www.youtube.com/playlist?list=PLpIPLT0Pf7Io8pMhxJ6vhM1chReYa8KIn) · [DMQA 세미나](https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTAvBJ6FX1vAi-PIeSw9xK) | 한국어 / 강의별 연도 확인 | ML 기초·모델 구현·연구 세미나. 정규 강의와 연구 발표 목록을 구분 |
-| 고려대 / 김중헌 | 강의 모음 | [강의 채널](https://www.youtube.com/user/joongheon/) | 채널 / 강의별 연도 확인 | ML·DL |
-| 국민대 / 강승식 | 강의 모음 | [강의 채널](https://www.youtube.com/channel/UC9BQ1zJdpPBit9V3IFx8GDw/) | 채널 / 강의별 연도 확인 | NLP |
-| 서울대 / 이준석 | 머신러닝 및 딥러닝 1 | 2026 봄 · [재생목록](https://www.youtube.com/playlist?list=PL0E_1UqNACXCpyohL0_uMNaqr0QuXOMBi) | [Spring 2026 강좌·슬라이드](https://vip.snu.ac.kr/viplab/courses/mldl1_2026_1/index.html) | 머신러닝·딥러닝 기초 |
-| 서울대 / 이준석 | 컴퓨터비전 — 시각적 이해를 위한 기계학습 | 2026 봄 · [재생목록](https://www.youtube.com/playlist?list=PL0E_1UqNACXABu9ft6PTRKaIvydxHJ9_w) — 일부 2025 영상 포함 | [Spring 2026 강좌·슬라이드](https://vip.snu.ac.kr/viplab/courses/mlvu_2026_1/index.html) | 컴퓨터 비전. 목록에 2025 Metric Learning 녹화도 포함 |
-| 서울대 데이터사이언스대학원 / 이준석 | 연구실 강좌 목록 | [채널](https://www.youtube.com/@LeeJoonseok) · [연구실 강좌 목록](https://vip.snu.ac.kr/viplab/courses.html) | 여러 학기 / 위 표의 개별 목록은 2026 봄 표기 | 공식 목록의 2026 가을 개설과 가을 영상 공개는 구분 |
-| 서울대 / 윤성로 | 강의 모음 | [강의 채널](https://www.youtube.com/channel/UCEkAV8kTc87PogbVLq-nd6A) | 채널 / 강의별 연도 확인 | ML·DL |
-| 서울대 DSBA / 강필성 | 연구실 강의 모음 | [연구실 채널](https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg) | [현재 소속·연구실 소개](https://ie.snu.ac.kr/dsba_lab/) | NLP·비전·시계열. 기존 채널 URL 유지 |
-| 서울대 AI연구원 | AI 연구 세미나 | [채널](https://www.youtube.com/c/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90AI%EC%97%B0%EA%B5%AC%EC%9B%90) | 세미나 / 영상별 연도 확인 | AI 연구 세미나 |
-| 성균관대 / 구자환 | 강의 모음 | [강의 채널](https://www.youtube.com/c/BigDataKoo/) | 채널 / 강의별 연도 확인 | NLP·빅데이터 |
-| KAIST / 서민준 | AI605 — Deep Learning for NLP | 2022 Spring · 영어 · [재생목록](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwlfX18uHYVigflooo8DMgq) · [강사 채널](https://www.youtube.com/channel/UCriDmMe_Ieb8hnox1CBiFRA) | [2022 강좌·과제](https://seominjoon.github.io/kaist-ai605/) | Transformer, 언어 모델, 사전학습, NLP 실습 |
-| 고려대 / 임희석 · Human-Inspired AI 연구원 | 도메인 특화 한국어 SLM/LLM 개발전략 | [강연 영상](https://www.youtube.com/watch?v=MVx57d9jS4M) · [연구원 채널](https://www.youtube.com/@hiairesearch) | 한국어 / 단일 초청강연 | 한국어·도메인 특화 언어 모델 개발. 원 강연 연도 미표기 |
-| 고려대 / 안준용 | LLM-Wiki — 대학원생을 위한 AI 지식 베이스 | [공개 슬라이드](https://joonan30.github.io/lecture-llm-wiki/) | 2026.05.08 · [강사 저장소·PDF](https://github.com/joonan30/lecture-llm-wiki) | Claude Code·Codex·OpenCode·Obsidian을 활용한 논문·지식 관리. 슬라이드 중심, 공개 녹화 미확인 |
-| 성균관대 / 심규홍 | LLM 시대의 음성인식 | [특강 영상](https://www.youtube.com/watch?v=LlcYTzO9i8A) · [AI중심대학사업단 채널](https://www.youtube.com/@SKKU_AI) | 한국어 / 약 15분 단일 특강 | ASR·LLM. 학기 전체 강의가 아닌 대학 공개 특강 |
-| 한동대 / 김인중 · Pro. Kim | LLM and AGI Tutorial·PyTorch 입문·BK21 워크숍 | [강사 채널](https://www.youtube.com/@injungkim7231/videos) · [LLM Basics](https://www.youtube.com/watch?v=uu9y2TcOmQw) · [PyTorch 튜토리얼](https://www.youtube.com/watch?v=9PYfjIZnEsM) | LLM 튜토리얼: 2024.6 / 나머지는 영상별 확인 | LLM 원리·분석·AGI, PyTorch, 강화학습·생성 모델 연구 강연 |
+| 서울대/이준석 |  | [채널](https://www.youtube.com/@LeeJoonseok) | [연구실](https://vip.snu.ac.kr/viplab) | ML·VISION |
+| 서울대/이준석 | 머신러닝 및 딥러닝 1 | [재생목록](https://www.youtube.com/playlist?list=PL0E_1UqNACXCpyohL0_uMNaqr0QuXOMBi) | 2026 Spring·[강의자료](https://vip.snu.ac.kr/viplab/courses/mldl1_2026_1/index.html) | ML·DL 101 |
+| 서울대/이준석 | 컴퓨터비전 | [재생목록](https://www.youtube.com/playlist?list=PL0E_1UqNACXABu9ft6PTRKaIvydxHJ9_w) | 2026 Spring·[강의자료](https://vip.snu.ac.kr/viplab/courses/mlvu_2026_1/index.html) | VISION 101 |
+| 서울대/강필성 |  | [채널](https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg) | [연구실](https://ie.snu.ac.kr/dsba_lab/) | NLP·VISON·시계열 |
+| 서울대/강필성 | Text Analytics | [재생목록](https://www.youtube.com/playlist?list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm) | 2021 Spring·[강의자료](https://github.com/pilsung-kang/Text-Analytics) | NLP 101 |
+| 서울대/AI연구원 | AI 연구 세미나 | [채널](https://www.youtube.com/c/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90AI%EC%97%B0%EA%B5%AC%EC%9B%90) | [연구원](https://aiis.snu.ac.kr/) | AI 연구 세미나 |
+| 고려대/김성범 |  | [채널](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/) | [연구실](https://dmqa.korea.ac.kr/) | ML·DL |
+| 고려대/김성범 | 머신러닝 이론 | [재생목록](https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j) |  | ML 101 |
+| 고려대/김성범 | 머신러닝 실습 | [재생목록](https://www.youtube.com/playlist?list=PLpIPLT0Pf7Io8pMhxJ6vhM1chReYa8KIn) |  | ML 실습 |
+| 고려대/안준용 | LLM-Wiki  | [공개 강의자료](https://joonan30.github.io/lecture-llm-wiki/) | [GitHub](https://github.com/joonan30/lecture-llm-wiki) | AI를 활용한 논문·지식 관리, 공개 녹화 미확인 |
+| KAIST/KOOC | KAIST 강의 포탈 | [홈페이지](https://online.kaist.ac.kr/kooc) | | 가입·신청 후 학습(무료) |
+| KAIST/서민준 |  | [채널](https://www.youtube.com/channel/UCriDmMe_Ieb8hnox1CBiFRA) | | 
+| KAIST/서민준 | AI605 — Deep Learning for NLP | [재생목록](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwlfX18uHYVigflooo8DMgq) | 2022·[강의자료](https://seominjoon.github.io/kaist-ai605/) | NLP 101 |
+| KOCW | 국내 대학 강의 포털 | [홈페이지](https://www.kocw.net/home/index.do) |  | 종합 강의 (무료) |
 
 ## 한국 기업 공개강의
 
-국내 기업·재단·기관과 독립 채널의 공개 학습 자료입니다. 독립·기관 채널은 운영 형태를 표시했습니다. [신청형 교육·유료 과정 확인 기록](docs/browser-sources-2026-10-25.md#교육-사이트와-신청형-과정)도 함께 정리했습니다.
+국내 기업·재단·기관과 독립 채널의 공개 학습 자료입니다. 
 
-| 기업·운영채널 | 공개강의·학습 자료 | 연도·형식 | 주요내용·비고 |
+| 기업·운영채널 | 공개강의 | 연도·형식 | 주요내용 |
 | --- | --- | --- | --- |
-| **Bloom AI** | [랭체인 & 랭그래프(Ver.1) 17시간 무료 강의](https://www.youtube.com/playlist?list=PLs1bbgA7gF7fbga20bvT5nIRZjKxpa25n) | 한국어 / Ver.1 · 약 17시간, 3개 항목 | LangChain·LangGraph 응용 강의 2개와 전자책 안내 |
-| 말러랩 / MahlerLab · [채널](https://www.youtube.com/@MahlerLab) | [연구자를 위한 LLM](https://www.youtube.com/playlist?list=PL0TnWnPQhDj2-TOwiz_ZhY2Sdurimss2Q) · [LLM 시대의 파이썬](https://www.youtube.com/playlist?list=PL0TnWnPQhDj2XHssyPQvDru4tZipvhmrj) · [AI Agent 입문](https://www.youtube.com/watch?v=tZ9KFQOA6NM) | LLM: 여러 연도 / 파이썬: **2024년 1학기** / Agent: 2026.4 제목 기준 | 독립 운영 채널. 연구용 LLM·파이썬·데이터 분석·챗봇. 파이썬 목록 갱신일은 원 강의 학기와 구분 |
-| 업스테이지 / Upstage | [Tech Talks 재생목록](https://www.youtube.com/playlist?list=PLkeKJYdfv8RLyrQ5WriBcKxMwjmc0c01T) · [교육 허브](https://edu.upstage.ai/courses) | 한국어·영어 / 기술 세미나·튜토리얼 | Solar·언어 모델·문서 AI. 공개 세미나와 교육 허브의 강좌 접근 조건은 구분 |
-| 인공지능팩토리 / AIFactory | [공개 세미나 목록](https://www.youtube.com/@aifactoryspace/streams) · [AI 에이전트 101](https://www.youtube.com/watch?v=DIYT8hRLq2Y) · [LangChain/LangGraph V1 실습](https://www.youtube.com/watch?v=Ipa6JNbFq4g) | 한국어 / 라이브 다시보기·개별 세미나 | AI 에이전트·오픈소스 LLM·응용 개발. 영상별 연도·버전 확인 |
-| 모두의연구소 | [공식 채널](https://www.youtube.com/@modulabs_) · [모두콘 2025 — 합성 데이터·도메인 특화 언어 모델](https://www.youtube.com/watch?v=cPsvwdcrFQ8) | 한국어 / 공개 컨퍼런스·세미나 | LLM 데이터·평가·연구 동향. 별도 유료 강좌·선발형 부트캠프와 구분 |
-| VESSL AI | [한국어 LLM 개발기: KoSOLAR부터 EEVE까지](https://www.youtube.com/watch?v=xvIL29UYKFg) | 한국어 / 단일 기술 강연 | 야놀자 김승덕 연사의 한국어 LLM 개발 경험. 공개 운영자는 VESSL AI |
-| 에이아이웍스 / AIWORKX | [LLM 구조와 학습용 데이터 셋](https://www.youtube.com/watch?v=Y1iWhetAP_c) | 한국어 / 단일 R&D 기술 영상 | LLM 구조·학습 데이터 입문. 영상 설명에는 Testworks R&D Team으로 표기 |
-| 네이버 커넥트재단 / 부스트코스 | [자연어 처리의 모든 것](https://www.boostcourse.org/ai330) · [차시 목록](https://www.boostcourse.org/ai330/home) | 한국어 / 무료 MOOC·상시 신청형 | Word2Vec·RNN·Seq2Seq·Attention·Transformer·BERT. 원 제작 연도 미표기, 최신 LLM 전체 과정으로 분류하지 않음 |
-| AI공작소 / 인공지능산업융합사업단 · 기관 채널 | [AI 전문가교육](https://www.youtube.com/playlist?list=PLqNEccGdJ8irMHsOMmLdgIbMJmnhToPVx) · [2026 H100 이용자 교육](https://www.youtube.com/watch?v=hG7y8tcpYS8) | 한국어 / 2025–2026 이용자 교육·안내 혼합 | 국가 AI데이터센터의 H100·B200·HPC 사용 교육. 교육 홍보 영상도 섞여 있으며 컴퓨팅 자원 이용은 별도 신청 |
-| 수리수리과학연구소 · 초청강연 채널 | [강의 모음](https://www.youtube.com/@%EC%88%98%EB%A6%AC%EC%88%98%EB%A6%AC%EA%B3%BC%ED%95%99%EC%97%B0%EA%B5%AC%EC%86%8C/videos) · [scikit-learn 실습](https://www.youtube.com/watch?v=7u2d6Ib4JjQ) | 한국어 / 초청강연·ML 실습 | AI를 위한 확률·통계·수학과 데이터 분석. 대학 교수 초청 영상이 있으나 채널 운영기관은 미확인 |
+| Bloom AI | [랭체인 & 랭그래프](https://www.youtube.com/playlist?list=PLs1bbgA7gF7fbga20bvT5nIRZjKxpa25n) | 유튜브 | LangChain·LangGraph 응용 강의 |
+| Upstage | [Tech Talks](https://www.youtube.com/playlist?list=PLkeKJYdfv8RLyrQ5WriBcKxMwjmc0c01T) | 유튜브 | Solar·AI 관련 공개 세미나
+| Upstage | [교육 허브](https://edu.upstage.ai/courses) | 튜토리얼 | Solar 활용 케이스 스터디 |
+| AIFactory | [공개 라이브](https://www.youtube.com/@aifactoryspace/streams) | 유튜브 | AI 에이전트·LLM·응용 개발 관련 라이브 |
+
 
 ## 해외 대학 공개강의
 
-미국·캐나다 대학의 강좌와 교수 채널입니다. 진행 중인 강좌, 공개 영상, 자료 중심 과정과 신청형 과정을 구분했습니다. 오래된 강의가 있을 수 있습니다.
+해외 대학의 강좌와 교수 채널입니다. 오래된 강의가 있을 수 있습니다.
 
-| 대학·강사·강좌 | 공개강의·채널 | 공식자료·형식 | 주요내용·비고 |
-| --- | --- | --- | --- |
-| Stanford Online | [공식 채널](https://www.youtube.com/@stanfordonline) · [전체 재생목록](https://www.youtube.com/@stanfordonline/playlists) | 학기별 재생목록 | 아래 AI·ML 강좌 선별 |
-| Stanford CS229 — Machine Learning | 2026 Spring · [재생목록](https://www.youtube.com/playlist?list=PLaqpC4kq8Gpw) · [1강](https://www.youtube.com/watch?v=DATnpGoGhM8) | [Stanford Online의 2강·강좌 소개](https://www.youtube.com/watch?v=cmNIMjPYdgM) | 머신러닝 기초, 지도학습 |
-| Stanford CS224N — Natural Language Processing with Deep Learning | 2024 Spring · [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) | [2026 Winter 강좌·슬라이드·과제](https://web.stanford.edu/class/cs224n/) | 신경망 기반 자연어처리, 언어 모델 |
-| Stanford CS336 — Language Modeling from Scratch / Percy Liang·Tatsunori Hashimoto | 2026 Spring · [공식 강좌가 연결한 재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) | [2026 강좌·코드·과제](https://cs336.stanford.edu/) | 토크나이저, Transformer 구현, GPU 최적화, 데이터, 평가, 후학습 |
-| Stanford CS231n — Deep Learning for Computer Vision | 2025 Spring · [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) · [1강](https://www.youtube.com/watch?v=2fq9wYslV0A) | [공식 노트·2026 과제](https://cs231n.github.io/) | 신경망, CNN, 컴퓨터 비전, 실습 |
-| Stanford CS224R — Deep Reinforcement Learning / Chelsea Finn | 2025 Spring · [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL) | [2026 Spring 강좌·자료](https://cs224r.stanford.edu/) | 모방학습, 딥 강화학습, 로보틱스·언어 모델 응용 |
-| Stanford CME295 — Transformers and Large Language Models / Afshine Amidi·Shervine Amidi | **2026 가을, 진행 중** · [재생목록](https://www.youtube.com/playlist?list=PLakGfbKCei80) · 이전 [2025 가을 목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy) | [공식 2026 강의계획·슬라이드](https://cme295.stanford.edu/syllabus/) | Transformer, LLM 학습, RLHF·DPO. 확인일에 1–4강 공개, 이후 차시는 예정 |
-| Stanford CME296 — Diffusion & Large Vision Models / Afshine Amidi·Shervine Amidi | **2026 봄** · [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu) — 개별 영상 제목에서 학기 확인 | [공식 강좌](https://cme296.stanford.edu/) · [강사 강의 목록](https://stanford.edu/~shervine/) | diffusion·score matching·flow matching·대규모 비전 모델 |
-| Stanford CS230 — Deep Learning / Andrew Ng·Kian Katanforoosh | 2025 가을 · [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) | [공식 강좌](https://cs230.stanford.edu/) | 딥러닝 기초, 프로젝트 전략, 생성 모델, 에이전트·RAG. 강좌 홈페이지의 별도 2018 영상과 구분 |
-| Stanford CS221 — Artificial Intelligence: Principles and Techniques | 2025 가을 · [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN) | 공식 영상 목록 | Stanford Online의 학기별 AI 강의 목록 |
-| Stanford CS329A — Self-Improving AI Agents / Aakanksha Chowdhery·Azalia Mirhoseini | [Stanford Online 재생목록](https://www.youtube.com/playlist?list=PLangBM27OtEA) · 대응 공식 강좌는 **2025 가을** | [공식 강좌·논문 목록](https://cs329a.stanford.edu/) | 추론 시 연산 확장, 검증기, 도구·코드 피드백, 계획, 에이전트 평가 |
-| MIT OpenCourseWare | [공식 채널](https://www.youtube.com/@mitocw) · [전체 재생목록](https://www.youtube.com/@mitocw/playlists) | OCW / 강의 학기와 업로드 연도 구분 | 6.S191과 MAS.S60의 아래 영상은 별도 강좌·강사 채널에서 제공 |
-| MIT 6.S191 — Introduction to Deep Learning | 2026 · [재생목록](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | [2026 강좌·슬라이드·실습](https://introtodeeplearning.com/) | 딥러닝 입문, 생성 모델, LLM, 강화학습 |
-| MIT 6.7960 — Deep Learning / Phillip Isola·Sara Beery·Jeremy Bernstein | 2024 가을 · [MIT OCW 재생목록](https://www.youtube.com/playlist?list=PLUl4u3cNGP63URZnh5iqBzDTDYPUTQT-8) | [강좌·노트·과제](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/) | 신경망 구조, 역전파, 일반화, Transformer, 생성 모델 |
-| MIT 15.773 — Hands-On Deep Learning / Rama Ramakrishnan | 2024 봄 · [MIT OCW 재생목록](https://www.youtube.com/playlist?list=PLUl4u3cNGP60YyhMjYmXuVmX562QcClSp) | [강좌·노트·프로그래밍 과제](https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/) | 비정형 데이터, CNN, Transformer, 생성 AI 실습 |
-| MIT MAS.S60 — How to AI (Almost) Anything / Paul Liang | 2025 봄 · [강사 재생목록](https://www.youtube.com/playlist?list=PLc0Yh0D0XR4Z3wityRaEuu4rfzTHRIIAO) | [MIT OCW 강좌 안내](https://ocw.mit.edu/courses/mas-s60-how-to-ai-almost-anything-spring-2025/) · [동일 학기 자료](https://mit-mi.github.io/how2ai-course/spring2025/) | 멀티모달 정렬·융합, 기반 모델, 인간-AI 상호작용 |
-| CMU 11-711 — Advanced NLP / Sean Welleck | 2026 Spring · [1강](https://www.youtube.com/watch?v=dnnBCi-qd0Q) | [2026 강좌·슬라이드·코드](https://cmu-l3.github.io/anlp-spring2026/) | LLM의 모델링·학습·추론, 평가, 강화학습·에이전트 |
-| 미국 · Carnegie Mellon 11-785 — Introduction to Deep Learning / Bhiksha Raj·Rita Singh | **2026 가을, 진행 중** · [강의 재생목록](https://www.youtube.com/playlist?list=PLFdeaiXAitLI) · [2026 봄 강의](https://www.youtube.com/playlist?list=PLp-0K3kfddPwarejN0RmVerKwkwgyvh3r) | [현재 강좌](https://deeplearning.cs.cmu.edu/) · [2026 봄 자료·개별 영상](https://deeplearning.cs.cmu.edu/S26/) | 신경망·CNN·시퀀스 모델·Attention, PyTorch. 확인일 가을 목록 17개, 봄 목록 29개 항목 |
-| CMU / Graham Neubig | [강의 채널](https://www.youtube.com/user/neubig) | 채널 / 강의별 연도 확인 | NLP |
-| 미국 · Columbia COMS W4995 — Applied Machine Learning / Andreas C. Müller | **2020 봄** · [강사 재생목록](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM) | [공식 강좌](https://www.cs.columbia.edu/~amueller/comsw4995s20/) · [강의별 슬라이드](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) | scikit-learn, 전처리, 모델 선택·평가, 앙상블 |
-| 미국 · Harvard CS50 — Introduction to AI with Python / Brian Yu·David J. Malan | **2023 영상판** · [공식 사이트가 연결한 재생목록](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm) | [현재 공개 강좌·프로젝트](https://cs50.harvard.edu/ai/) | 탐색, 지식 표현, 확률, 최적화, 학습, 신경망, 언어. 현재 사이트를 2026 녹화판으로 해석하지 않음 |
-| UC Berkeley CS285 — Deep Reinforcement Learning / Sergey Levine | 2023 Fall · [재생목록](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) | [2026 Spring 강좌·자료](https://rail.eecs.berkeley.edu/deeprlcourse/) | 정책 경사, actor-critic, 모델 기반·오프라인 강화학습 |
-| 미국 · UC Berkeley RDI — Agentic AI / Dawn Song 및 초청 강연자 | **2025 가을** · [강의별 녹화·슬라이드](https://agenticai-learning.org/f25) | [대학 공식 교육 목록](https://rdi.berkeley.edu/education) | LLM 에이전트, 후학습, 평가, 다중 에이전트, 실제 응용. OpenAI·Google DeepMind·Meta 등 연구자 강연 포함 |
-| NYU — Introduction to Deep Learning Research / Alfredo Canziani | 2025 Fall · [1강](https://www.youtube.com/watch?v=rg4QyMFONNQ) · [기존 재생목록·별도 영상판](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | [2025 강좌·강의별 영상·코드](https://atcold.github.io/NYU-DLFL25U/) | 신경망의 수학적 이해와 구현 |
-| UMD / Mohit Iyyer — CMSC723 Natural Language Processing | 2026 가을 · [강의 재생목록](https://www.youtube.com/playlist?list=PLFq3c7ZsRdno) | [공식 강좌·자료](https://www.cs.umd.edu/~miyyer/cmsc723/) · 진행 중 | NLP·LLM |
-| University of Michigan / Justin Johnson | [기존 재생목록](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | 기존 영상 목록 / 연도 미확인 | 컴퓨터 비전 |
-| 캐나다 · Toronto — Neural Networks for Machine Learning / Geoffrey Hinton | **2012 원 강의** · [강사 공식 영상 목록](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) | [공식 강의·슬라이드 안내](https://www.cs.toronto.edu/~hinton/talks.html) | 역전파·최적화·CNN·RNN·에너지 기반 모델. MP4 차시 목록, 유튜브 재생목록 형식 아님 |
-| 캐나다 · Toronto CSC2541 — Large Models / Chris Maddison | **2025 겨울, 자료 중심** · [공식 강좌·슬라이드·노트북](https://www.cs.toronto.edu/~cmaddis/courses/csc2541_w25/) | 자료 중심 / 공개 영상 미확인 | Llama 3 보고서를 따라 사전학습·후학습·평가·배포를 다루는 논문·코드 세미나. 공개 유튜브 강의 목록은 미확인 |
-| Toronto / Roger Grosse | [공식 강의 목록](https://www.cs.utoronto.ca/~rgrosse/teaching/) · [CSC413/2516 2025](https://csc413-w25.notion.site/) | 2025 겨울 / 강좌 안내·자료 중심 | 녹화는 OCCS Student App 제공. 일반 공개 유튜브 영상은 미확인 |
-| 캐나다 · UBC CPSC330 — Applied Machine Learning / Varada Kolhatkar | **2025W1, 자료 중심** · [공식 강의 노트](https://ubc-cs.github.io/cpsc330-2025W1/README.html) | 자료 중심 / 공개 영상 미확인 | scikit-learn 파이프라인, 평가, 앙상블, 추천 시스템, NLP, 시계열. 학기 전체의 공개 영상은 미확인 |
-| 캐나다 · Waterloo CS886 — Recent Advances on Foundation Models / Wenhu Chen | **2024 겨울** · [공식 강좌·차시별 영상·슬라이드](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/) | 차시별 영상·슬라이드 | Transformer, 효율적 튜닝, 기반 모델 논문. 교수 강의와 학생 발표가 함께 있는 세미나 형식 |
-| 캐나다 · Alberta — Reinforcement Learning Specialization / Adam White·Martha White | **2019 출시, 현재 강좌 안내 확인** · [공식 Coursera 4강좌 과정](https://www.coursera.org/specializations/reinforcement-learning) | [대학 공식 소개](https://www.ualberta.ca/en/science/news/2019/july/reinforcement-learning-online-course.html) | TD, Monte Carlo, Sarsa, Q-learning, 정책 경사. 플랫폼 수강형, 유튜브 재생목록 아님; 수강·과제·인증서의 접근 조건은 플랫폼 확인 |
+| 대학교/교수 | 강좌 | 채널 | 공식자료 | 주요내용 |
+| --- | --- | --- | --- |--- |
+| Stanford/Percy Liang | CS221 — Artificial Intelligence: Principles and Techniques| [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN) | 2025 Fall·[강의자료](https://stanford-cs221.github.io/autumn2025/) |  |
+| Stanford/Tengyu Ma·Chris Ré | CS229 — Machine Learning | [재생목록](https://www.youtube.com/playlist?list=PLaqpC4kq8Gpw) | 2026 Spring·[강의자료](https://cs229.stanford.edu/index.html) | 머신러닝 기초, 지도학습
+| Stanford/Andrew Ng·Kian Katanforoosh | CS230 — Deep Learning | [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) | 2025 Fall·[강의자료](https://cs230.stanford.edu/) | 딥러닝 기초, 프로젝트 전략, 생성 모델, 에이전트·RAG |
+| Stanford/Christopher Manning | CS224N — Natural Language Processing with Deep Learning| 2024 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) | 2026 Winter·[강의자료](https://web.stanford.edu/class/cs224n/) | 자연어처리, 언어 모델 |
+| Stanford/Fei-Fei Li·Ehsan Adeli | CS231n — Deep Learning for Computer Vision | 2025 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) | 2026 Spring·[강의자료](https://cs231n.github.io/) | 신경망, CNN, 컴퓨터 비전, 실습 |
+| Stanford/Chelsea Finn | CS224R — Deep Reinforcement Learning | 2025 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL) | 2026 Spring·[강의자료](https://cs224r.stanford.edu/) | 모방학습, 딥 강화학습, 로보틱스·언어 모델 응용 |
+| Stanford/Percy Liang·Tatsunori Hashimoto | CS336 — Language Modeling from Scratch | [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) | 2026 Spring·[강의자료](https://cs336.stanford.edu/) | 토크나이저, Transformer 구현, GPU 최적화, 데이터, 평가, 후학습 |
+| Stanford/Afshine Amidi·Shervine Amidi | CME295 — Transformers and Large Language Models | 2026 Fall·[재생목록](https://www.youtube.com/playlist?list=PLakGfbKCei80), 2025 Fall·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy) | 2026 Fall·[강의자료](https://cme295.stanford.edu/syllabus/) | Transformer, LLM 학습, RLHF·DPO |
+| Stanford/Afshine Amidi·Shervine Amidi | CME296 — Diffusion & Large Vision Models | 2026 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu) | 2026 Spring·[강의자료](https://cme296.stanford.edu/) | diffusion·score matching·flow matching·대규모 비전 모델 |
+| Stanford/Aakanksha Chowdhery·Azalia Mirhoseini | CS329A — Self-Improving AI Agents| [재생목록](https://www.youtube.com/playlist?list=PLangBM27OtEA) | [강의자료](https://cs329a.stanford.edu/) | 추론 시 연산 확장, 검증기, 도구·코드 피드백, 계획, 에이전트 평가 |
+| MIT/Alexander Amini | MIT6.S191 — Introduction to Deep Learning | 2026·[재생목록](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | 2026·[강의자료](https://introtodeeplearning.com/) | 딥러닝 입문, 생성 모델, LLM, 강화학습 |
+| MIT/Paul Liang | MAS.S60 — How to AI (Almost) Anything / Paul Liang | 2025 Spring·[재생목록](https://www.youtube.com/playlist?list=PLc0Yh0D0XR4Z3wityRaEuu4rfzTHRIIAO) | [강의자료](https://mit-mi.github.io/how2ai-course/spring2025/) | 멀티모달 정렬·융합, 기반 모델, 인간-AI 상호작용 |
+| CMU/Sean Welleck | CMU CS 11-711 — Advanced NLP | 2026 Spring·[재생목록](https://www.youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx) | 2026 Spring·[강의자료](https://cmu-l3.github.io/anlp-spring2026/) | LLM의 모델링·학습·추론, 평가, 강화학습·에이전트 |
+| CMU/Graham Neubig |  | [채널](https://www.youtube.com/user/neubig) | [연구실](https://www.phontron.com/neulab) | NLP |
+| CMU/Graham Neubig | CMU 11-768 — AI Agents | 2026 Fall·[재생목록](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) | [강의자료](https://www.cmu-agents.com/) | AI Agent |
+| CMU/Graham Neubig | CMU 11-664/763 — Inference Algorithms for Language Modeling | 2025 Fall·[재생목록](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DY15Ob83nmwBAVyNtUQadX) | [강의자료](https://www.phontron.com/class/lminference-fall2025/) | LLM Inference |
+| NYU/Alfredo Canziani | NYU-DLFL25U — Introduction to Deep Learning Research | [재생목록](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cKSM86olUgLhpLKs_-N2K4) | [강의자료](https://atcold.github.io/NYU-DLFL25U/) | 신경망의 수학적 이해와 구현 |
+| UMD/Mohit Iyyer | CMSC723 — Natural Language Processing | 2026 Fall·[재생목록](https://www.youtube.com/playlist?list=PLFq3c7ZsRdno) | [강의자료](https://www.cs.umd.edu/~miyyer/cmsc723/) | NLP·LLM |
 
 ## 해외 기업 공개강의
 
 제작사·개발사의 공식 자료와 기업·독립 운영 채널의 응용 강좌입니다. Claude는 Anthropic, Gemini는 Google, Grok은 xAI 항목에 있습니다. 독립 채널·행사 영상은 운영 형태를 표시했으며, 자료 열람과 API 실습·수강·인증서의 이용 조건은 다를 수 있습니다.
 
-| 기업·운영채널 | 공개강의·학습 자료 | 연도·형식 | 주요내용·비고 |
+| 기업·운영채널 | 공개강의 | 연도·형식 | 주요내용 |
 | --- | --- | --- | --- |
-| **OpenAI** | [Developer Learn](https://developers.openai.com/learn) · [Cookbook](https://developers.openai.com/cookbook) | 학습 경로·영상·코드 예제 | 에이전트 구축, AI 앱 개발, 모델 최적화. 개별 예제의 SDK·API 버전 확인 |
-| **Anthropic / Claude** | [Claude Academy](https://academy.claude.com/) · [Building with the Claude API](https://academy.claude.com/courses/building-with-the-claude-api) | 무료 강좌·튜토리얼 | API 강좌는 프롬프팅, 도구 사용, RAG, 에이전트, MCP와 운영 패턴을 다룸 |
-| **Google / Gemini** | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) · [Gemini API 문서](https://ai.google.dev/gemini-api/docs) · [공식 Cookbook](https://github.com/google-gemini/cookbook) | 영상·문항·실습·노트북 | MLCC: 영상·문항·실습 중심 ML 기초와 LLM 입문. Gemini: 멀티모달 입력·도구 호출 등 API 노트북·예제 |
-| **Meta / Llama** | [공식 자료 모음](https://dev.meta.ai/llama/docs/resources) · [How-to guides](https://dev.meta.ai/llama/docs/how-to-guides) · [Llama Cookbook](https://github.com/meta-llama/llama-cookbook) | 영상·가이드·코드 | 추론, 미세조정, RAG, 양자화·평가. 공식 페이지도 이전 Llama 버전의 자료가 포함됨을 안내 |
-| **Mistral AI** | [Learn with Mistral](https://learn.mistral.ai/) · [Cookbooks](https://docs.mistral.ai/resources/cookbooks) · [공식 Quickstarts](https://docs.mistral.ai/) | 웨비나·영상·코드 예제 | API 입문, OCR·문서 처리, RAG, 에이전트·워크플로. Cookbook에는 커뮤니티 작성 예제도 포함 |
-| **xAI / Grok** | [Grok API 문서](https://docs.x.ai/) · [Quickstart](https://docs.x.ai/developers/quickstart) | 문서·코드 | 첫 API 호출, 추론, 구조화 출력, 도구 호출·검색. 공개 정규 강의 재생목록으로 분류하지 않음 |
-| **LangChain** | [LangChain Academy](https://academy.langchain.com/) · [Introduction to Deep Agents](https://academy.langchain.com/courses/foundation-introduction-to-deepagents) | 공식 강좌 | LangChain·LangGraph 입문, Deep Agents, LangSmith 평가·배포·관측. 강좌 콘텐츠 무료, 인증 시험은 별도 |
-| **Hugging Face** | [전체 Learn](https://huggingface.co/learn) · [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) · [Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) | 텍스트·영상·노트북 | Transformers, 데이터·토크나이저, 미세조정, 추론 모델, 에이전트 구현 |
-| **Microsoft** | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Version 3 · 21레슨 | 개념 설명·짧은 영상·Python/TypeScript 예제. 저장소에 한국어 번역 링크 제공 |
-| **NVIDIA** | [Self-Paced Training / DLI](https://www.nvidia.com/en-us/training/self-paced-courses/) | 자율 학습형 강좌 카탈로그 | 생성 AI·LLM, 가속 컴퓨팅, AI 인프라. 무료·유료 강좌를 구분해 선택 |
+| OpenAI | [Developer Learn](https://developers.openai.com/learn) · [Cookbook](https://developers.openai.com/cookbook) | 학습 경로·영상·코드 예제 | 에이전트 구축, AI 앱 개발, 모델 최적화. 개별 예제의 SDK·API 버전 확인 |
+| Anthropic | [Claude Academy](https://academy.claude.com/) | 무료 강좌·튜토리얼 | Claude 활용 프롬프팅, 도구 사용, RAG, 에이전트, MCP와 운영 패턴을 다룸 |
+| Gemini | [공식 Cookbook](https://github.com/google-gemini/cookbook) | 실습·노트북 | 멀티모달 입력·도구 호출 등 API 노트북·예제 등 |
+| Mistral AI | [Learn with Mistral](https://learn.mistral.ai/) · [Cookbooks](https://docs.mistral.ai/resources/cookbooks) · [공식 Quickstarts](https://docs.mistral.ai/) | 웨비나·영상·코드 예제 | API 입문, OCR·문서 처리, RAG, 에이전트·워크플로. Cookbook에는 커뮤니티 작성 예제도 포함 |
+| Grok | [Quickstart](https://docs.x.ai/developers/quickstart) | 문서·코드 | API 호출, 추론, 구조화 출력, 도구 호출·검색. 공개 정규 강의 재생목록으로 분류하지 않음 |
+| LangChain | [LangChain Academy](https://academy.langchain.com/) | 공식 강좌 | LangChain·LangGraph 입문, Deep Agents, LangSmith 평가·배포·관측. 강좌 콘텐츠 무료, 인증 시험은 별도 |
+| Hugging Face | [전체 Learn](https://huggingface.co/learn) | 텍스트·영상·노트북 | Transformers, 데이터·토크나이저, 미세조정, 추론 모델, 에이전트 구현 |
+| Microsoft | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Version 3 · 21레슨 | 개념 설명·짧은 영상·Python/TypeScript 예제. 저장소에 한국어 번역 링크 제공 |
 | Vizuara | [신경망 직접 구현](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) · [ML: Teach by Doing](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L) · [SLM 직접 만들기](https://www.youtube.com/watch?v=pOFcwcwtv3k) | 영어 / 공개 실습 강좌·단일 워크숍 | 신경망·ML·소형 언어 모델 구현. 공개 영상과 별도 유료 부트캠프는 구분 |
 | Sebastian Raschka · 독립 연구자 채널 | [LLM 영상 목록](https://www.youtube.com/playlist?list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm) · [LLMs from Scratch 코드](https://github.com/rasbt/LLMs-from-scratch) · [Reasoning from Scratch 코드](https://github.com/rasbt/reasoning-from-scratch) | 영어 / 공개 영상·책 공식 코드 | PyTorch로 LLM·추론 모델 구현, 평가·강화학습·증류. 책·별도 Manning 동영상 강좌와 공개 자료의 조건은 구분 |
 | Lera Andronova · 독립 채널 | [ML 해설 채널](https://www.youtube.com/@lerabyte) · [LLM 원리·직접 구현 입문](https://www.youtube.com/watch?v=u1_qczBrhow) | 영어 / 개념 해설·단일 영상 | 신경망·기초 ML·언어 모델. 대학 정규 강좌나 특정 AI 기업 공식 교육으로 분류하지 않음 |

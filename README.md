@@ -10,19 +10,14 @@ Free machine learning, deep learning, LLM, and AI agent lectures, notes, and cod
 
 ![ML/DL from scratch, LLM from scratch, AI Agent from scratch: 대학 공개강의 9개로 고른 세 학습 경로](docs/assets/from-scratch-roadmap.svg)
 
-**무료 공개 강의·노트·코드로 배웁니다.** 이 저장소는 무료 학습 자료를 모읍니다. API·GPU 사용료와 유료 인증서는 별도입니다.
-
-아래는 이 저장소의 대학 강의에서 고른 추천 학습 순서입니다. 각 경로의 마지막 열은 직접 만들어 볼 과제입니다.
+**무료로 공개된 강의·노트·코드를 모았습니다.**
 
 | 경로 | 대학 강의 순서 | 직접 만들어 볼 것 |
 | --- | --- | --- |
-| **ML/DL from scratch** | ① [서울대 ML/DL I](https://vip.snu.ac.kr/viplab/courses/mldl1_2026_1/index.html) → ② [MIT 6.S191](https://introtodeeplearning.com/) → ③ [Stanford CS231n](https://cs231n.github.io/) | NumPy로 역전파 계산 → 이미지 분류기 학습 |
-| **LLM from scratch** | ① [Stanford CS224N](https://web.stanford.edu/class/cs224n/) → ② [Stanford CS336](https://cs336.stanford.edu/) → ③ [CMU 11-711](https://cmu-l3.github.io/anlp-spring2026/) | 토크나이저·Transformer 구현 → 작은 언어 모델 학습·평가 |
-| **AI Agent from scratch** | ① [Stanford CS221](https://stanford-cs221.github.io/autumn2025/) → ② [CMU 11-768](https://www.cmu-agents.com/) → ③ [Stanford CS329A](https://cs329a.stanford.edu/) | 도구 호출·실행 루프 구현 → 코딩 에이전트 평가 |
+| **ML/DL from scratch** | ① [서울대 ML/DL I](https://www.youtube.com/playlist?list=PL0E_1UqNACXCpyohL0_uMNaqr0QuXOMBi) → ② [MIT 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) → ③ [Stanford CS231n](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) | NumPy로 역전파 계산 → 이미지 분류기 학습 |
+| **LLM from scratch** | ① [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) → ② [Stanford CS336](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) → ③ [CMU 11-711](https://www.youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx) | 토크나이저·Transformer 구현 → 작은 언어 모델 학습·평가 |
+| **AI Agent from scratch** | ① [Stanford CS221](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN) → ② [CMU 11-768](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) → ③ [Stanford CS329A](https://www.youtube.com/playlist?list=PLangBM27OtEA) | 도구 호출·실행 루프 구현 → 코딩 에이전트 평가 |
 
-공통 준비는 Python·선형대수·미분·확률입니다. LLM 경로는 신경망·PyTorch 기본기를 배운 뒤에, Agent 경로는 언어 모델의 기본 구조를 익힌 뒤에 시작하세요.
-
-**연도 안내:** CS231n은 2026 자료·2025 공개 영상, CS224N은 2026 자료·2024 공개 영상입니다. CMU 11-768은 2026 가을 학기 진행 중이며 공개 차시가 추가됩니다. 나머지 영상·자료 링크와 학기는 아래 대학 목록에서 확인할 수 있습니다.
 
 **자료 목록 / Browse resources**
 

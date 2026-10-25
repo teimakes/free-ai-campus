@@ -1,51 +1,84 @@
-name: 강의 추가·업데이트·링크 수정
-description: 대학 공개 강의·기업 학습 자료, 최신 학기, 교수 소속 또는 링크 수정을 제안합니다.
-title: "[강의] "
+name: 강의·자료 추가·수정
+description: 무료 공개 강의·노트·코드 추가, 학기·소속·링크 수정을 제안합니다.
+title: "[자료] "
 body:
+  - type: markdown
+    attributes:
+      value: |
+        무료 공개 강의·노트·코드를 제안하는 양식입니다. 링크·소속 수정도 이곳에 적어 주세요.
+        표 형식은 [기여 안내](https://github.com/teimakes/ml-dl-university/blob/main/CONTRIBUTING.md)에 있습니다.
   - type: dropdown
     id: change_type
     attributes:
       label: 제안 종류
       options:
-        - 새 공개 강의
-        - 기업 공식 학습 자료·한국어 응용 강좌
-        - 최신 학기·재생목록 반영
-        - 교수·연구실 소속 변경
+        - 새 강의·자료 추가
+        - 학기·영상·자료 업데이트
+        - 교수·연구실·채널 소속 수정
         - 링크 오류 수정
+        - 시작하기 학습 순서 수정
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: README 분류
+      options:
+        - 한국 대학 공개강의
+        - 한국 기업 공개강의
+        - 해외 대학 공개강의
+        - 해외 기업 공개강의
+        - 유튜브 채널
     validations:
       required: true
   - type: input
     id: course
     attributes:
-      label: 강의·자료·채널명 및 대학·강사·제공사
+      label: 강의·자료명과 대학·교수·기업·채널명
       placeholder: "예: Stanford CS336 / Percy Liang·Tatsunori Hashimoto"
     validations:
       required: true
   - type: input
     id: topic_language
     attributes:
-      label: 분야·강의 언어
-      placeholder: "예: NLP·LLM / 영어"
-    validations:
-      required: true
+      label: 주요 내용·언어
+      placeholder: "예: 토크나이저·Transformer 직접 구현 / 영어"
   - type: input
     id: versions
     attributes:
-      label: 영상·자료 학기 또는 제품 버전·확인일
-      placeholder: "예: 영상 2024 Spring / 자료 2026 Winter, 또는 LangGraph 버전·확인일"
-    validations:
-      required: true
+      label: 영상·자료 연도 또는 코드 버전
+      description: 모르면 비워 두세요.
+      placeholder: "예: 영상 2024 Spring / 자료 2026 Winter"
   - type: textarea
     id: sources
     attributes:
-      label: 공식 강좌·영상·학습 자료 링크
-      description: 공식 안내와 실제 학습 자료 링크를 적고 영상·문서·코드·신청형 과정을 구분해 주세요. 링크 수정이라면 기존 링크와 새 링크를 적어 주세요.
+      label: 영상·자료 링크
+      description: 강의는 재생목록, 자료는 공식 페이지·노트·코드 주소를 적어 주세요. 링크 수정은 기존 주소와 새 주소를 함께 적습니다.
+      placeholder: |
+        영상 재생목록:
+        공식 페이지·노트·코드:
+        수정할 기존 링크:
+    validations:
+      required: true
+  - type: dropdown
+    id: access
+    attributes:
+      label: 무료 공개 여부
+      options:
+        - 가입 없이 무료
+        - 무료 가입·신청 필요
+        - 일부만 무료 (공개 범위를 아래에 적어 주세요)
+        - 확인하지 못함
     validations:
       required: true
   - type: textarea
     id: verification
     attributes:
-      label: 직접 확인한 내용·확인 날짜
-      description: 강의명, 학기, 공개 영상 연결, 소속 등 확인한 내용과 미확인 사항을 구분해 주세요.
+      label: 확인 날짜·직접 확인한 내용
+      description: 공개된 차시, 무료 범위, 바뀐 정보 등을 적어 주세요. API·GPU·인증서 비용이 있으면 함께 적습니다.
+      placeholder: |
+        확인 날짜: YYYY-MM-DD
+        확인한 내용:
+        확인하지 못한 내용:
     validations:
       required: true

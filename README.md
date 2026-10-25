@@ -16,7 +16,7 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 | KOCW | 대학 강의 검색 포털 | [홈페이지](https://www.kocw.net/home/index.do) | 대학·교수·분야·연도로 검색 | ML·DL·생성 모델 강좌 탐색. 홈페이지·검색 결과 확인 |
 | KAIST KOOC | 강좌 포털 | [카탈로그](https://online.kaist.ac.kr/kooc) | 아래 4강좌: 한국어·상시 운영·신청형 | 촬영·개설 학기와 신청 이후 학습 |
 | KAIST 스타트업 | 딥러닝 세미나 | [기존 세미나 목록](https://www.youtube.com/channel/UC7Xy68lSL9SHVgJ14bIORrQ/playlists) | 세미나 / 영상별 연도 확인 | 딥러닝 세미나 |
-| 고려대 / 김성범 | 강의 모음 | [강의 채널](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/) | 채널 / 강의별 연도 확인 | ML·DL |
+| 고려대 / 김성범 | 핵심 머신러닝·파이썬 실습·AI/ML 세미나 | [강의 채널](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/) · [핵심 머신러닝](https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j) · [파이썬 실습](https://www.youtube.com/playlist?list=PLpIPLT0Pf7Io8pMhxJ6vhM1chReYa8KIn) · [DMQA 세미나](https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTAvBJ6FX1vAi-PIeSw9xK) | 한국어 / 강의별 연도 확인 | ML 기초·모델 구현·연구 세미나. 정규 강의와 연구 발표 목록을 구분 |
 | 고려대 / 김중헌 | 강의 모음 | [강의 채널](https://www.youtube.com/user/joongheon/) | 채널 / 강의별 연도 확인 | ML·DL |
 | 국민대 / 강승식 | 강의 모음 | [강의 채널](https://www.youtube.com/channel/UC9BQ1zJdpPBit9V3IFx8GDw/) | 채널 / 강의별 연도 확인 | NLP |
 | 서울대 / 이준석 | 머신러닝 및 딥러닝 1 | 2026 봄 · [재생목록](https://www.youtube.com/playlist?list=PL0E_1UqNACXCpyohL0_uMNaqr0QuXOMBi) | [Spring 2026 강좌·슬라이드](https://vip.snu.ac.kr/viplab/courses/mldl1_2026_1/index.html) | 머신러닝·딥러닝 기초 |
@@ -27,15 +27,27 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 | 서울대 AI연구원 | AI 연구 세미나 | [채널](https://www.youtube.com/c/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90AI%EC%97%B0%EA%B5%AC%EC%9B%90) | 세미나 / 영상별 연도 확인 | AI 연구 세미나 |
 | 성균관대 / 구자환 | 강의 모음 | [강의 채널](https://www.youtube.com/c/BigDataKoo/) | 채널 / 강의별 연도 확인 | NLP·빅데이터 |
 | KAIST / 서민준 | AI605 — Deep Learning for NLP | 2022 Spring · 영어 · [재생목록](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwlfX18uHYVigflooo8DMgq) · [강사 채널](https://www.youtube.com/channel/UCriDmMe_Ieb8hnox1CBiFRA) | [2022 강좌·과제](https://seominjoon.github.io/kaist-ai605/) | Transformer, 언어 모델, 사전학습, NLP 실습 |
+| 고려대 / 임희석 · Human-Inspired AI 연구원 | 도메인 특화 한국어 SLM/LLM 개발전략 | [강연 영상](https://www.youtube.com/watch?v=MVx57d9jS4M) · [연구원 채널](https://www.youtube.com/@hiairesearch) | 한국어 / 단일 초청강연 | 한국어·도메인 특화 언어 모델 개발. 원 강연 연도 미표기 |
+| 고려대 / 안준용 | LLM-Wiki — 대학원생을 위한 AI 지식 베이스 | [공개 슬라이드](https://joonan30.github.io/lecture-llm-wiki/) | 2026.05.08 · [강사 저장소·PDF](https://github.com/joonan30/lecture-llm-wiki) | Claude Code·Codex·OpenCode·Obsidian을 활용한 논문·지식 관리. 슬라이드 중심, 공개 녹화 미확인 |
+| 성균관대 / 심규홍 | LLM 시대의 음성인식 | [특강 영상](https://www.youtube.com/watch?v=LlcYTzO9i8A) · [AI중심대학사업단 채널](https://www.youtube.com/@SKKU_AI) | 한국어 / 약 15분 단일 특강 | ASR·LLM. 학기 전체 강의가 아닌 대학 공개 특강 |
+| 한동대 / 김인중 · Pro. Kim | LLM and AGI Tutorial·PyTorch 입문·BK21 워크숍 | [강사 채널](https://www.youtube.com/@injungkim7231/videos) · [LLM Basics](https://www.youtube.com/watch?v=uu9y2TcOmQw) · [PyTorch 튜토리얼](https://www.youtube.com/watch?v=9PYfjIZnEsM) | LLM 튜토리얼: 2024.6 / 나머지는 영상별 확인 | LLM 원리·분석·AGI, PyTorch, 강화학습·생성 모델 연구 강연 |
 
 ## 한국 기업 공개강의
 
-국내 응용 학습 자료를 모았습니다.
+국내 기업·재단·기관과 독립 채널의 공개 학습 자료입니다. 독립·기관 채널은 운영 형태를 표시했습니다. [신청형 교육·유료 과정 확인 기록](docs/browser-sources-2026-10-25.md#교육-사이트와-신청형-과정)도 함께 정리했습니다.
 
 | 기업·운영채널 | 공개강의·학습 자료 | 연도·형식 | 주요내용·비고 |
 | --- | --- | --- | --- |
 | **Bloom AI** | [랭체인 & 랭그래프(Ver.1) 17시간 무료 강의](https://www.youtube.com/playlist?list=PLs1bbgA7gF7fbga20bvT5nIRZjKxpa25n) | 한국어 / Ver.1 · 약 17시간, 3개 항목 | LangChain·LangGraph 응용 강의 2개와 전자책 안내 |
 | 말러랩 / MahlerLab · [채널](https://www.youtube.com/@MahlerLab) | [연구자를 위한 LLM](https://www.youtube.com/playlist?list=PL0TnWnPQhDj2-TOwiz_ZhY2Sdurimss2Q) · [LLM 시대의 파이썬](https://www.youtube.com/playlist?list=PL0TnWnPQhDj2XHssyPQvDru4tZipvhmrj) · [AI Agent 입문](https://www.youtube.com/watch?v=tZ9KFQOA6NM) | LLM: 여러 연도 / 파이썬: **2024년 1학기** / Agent: 2026.4 제목 기준 | 독립 운영 채널. 연구용 LLM·파이썬·데이터 분석·챗봇. 파이썬 목록 갱신일은 원 강의 학기와 구분 |
+| 업스테이지 / Upstage | [Tech Talks 재생목록](https://www.youtube.com/playlist?list=PLkeKJYdfv8RLyrQ5WriBcKxMwjmc0c01T) · [교육 허브](https://edu.upstage.ai/courses) | 한국어·영어 / 기술 세미나·튜토리얼 | Solar·언어 모델·문서 AI. 공개 세미나와 교육 허브의 강좌 접근 조건은 구분 |
+| 인공지능팩토리 / AIFactory | [공개 세미나 목록](https://www.youtube.com/@aifactoryspace/streams) · [AI 에이전트 101](https://www.youtube.com/watch?v=DIYT8hRLq2Y) · [LangChain/LangGraph V1 실습](https://www.youtube.com/watch?v=Ipa6JNbFq4g) | 한국어 / 라이브 다시보기·개별 세미나 | AI 에이전트·오픈소스 LLM·응용 개발. 영상별 연도·버전 확인 |
+| 모두의연구소 | [공식 채널](https://www.youtube.com/@modulabs_) · [모두콘 2025 — 합성 데이터·도메인 특화 언어 모델](https://www.youtube.com/watch?v=cPsvwdcrFQ8) | 한국어 / 공개 컨퍼런스·세미나 | LLM 데이터·평가·연구 동향. 별도 유료 강좌·선발형 부트캠프와 구분 |
+| VESSL AI | [한국어 LLM 개발기: KoSOLAR부터 EEVE까지](https://www.youtube.com/watch?v=xvIL29UYKFg) | 한국어 / 단일 기술 강연 | 야놀자 김승덕 연사의 한국어 LLM 개발 경험. 공개 운영자는 VESSL AI |
+| 에이아이웍스 / AIWORKX | [LLM 구조와 학습용 데이터 셋](https://www.youtube.com/watch?v=Y1iWhetAP_c) | 한국어 / 단일 R&D 기술 영상 | LLM 구조·학습 데이터 입문. 영상 설명에는 Testworks R&D Team으로 표기 |
+| 네이버 커넥트재단 / 부스트코스 | [자연어 처리의 모든 것](https://www.boostcourse.org/ai330) · [차시 목록](https://www.boostcourse.org/ai330/home) | 한국어 / 무료 MOOC·상시 신청형 | Word2Vec·RNN·Seq2Seq·Attention·Transformer·BERT. 원 제작 연도 미표기, 최신 LLM 전체 과정으로 분류하지 않음 |
+| AI공작소 / 인공지능산업융합사업단 · 기관 채널 | [AI 전문가교육](https://www.youtube.com/playlist?list=PLqNEccGdJ8irMHsOMmLdgIbMJmnhToPVx) · [2026 H100 이용자 교육](https://www.youtube.com/watch?v=hG7y8tcpYS8) | 한국어 / 2025–2026 이용자 교육·안내 혼합 | 국가 AI데이터센터의 H100·B200·HPC 사용 교육. 교육 홍보 영상도 섞여 있으며 컴퓨팅 자원 이용은 별도 신청 |
+| 수리수리과학연구소 · 초청강연 채널 | [강의 모음](https://www.youtube.com/@%EC%88%98%EB%A6%AC%EC%88%98%EB%A6%AC%EA%B3%BC%ED%95%99%EC%97%B0%EA%B5%AC%EC%86%8C/videos) · [scikit-learn 실습](https://www.youtube.com/watch?v=7u2d6Ib4JjQ) | 한국어 / 초청강연·ML 실습 | AI를 위한 확률·통계·수학과 데이터 분석. 대학 교수 초청 영상이 있으나 채널 운영기관은 미확인 |
 
 ## 해외 대학 공개강의
 
@@ -78,7 +90,7 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 
 ## 해외 기업 공개강의
 
-제작사·개발사의 공식 강좌·교육 허브·문서·코드 예제입니다. Claude는 Anthropic, Gemini는 Google, Grok은 xAI 항목에 있습니다. 자료 열람과 API 실습·수강·인증서의 이용 조건은 다를 수 있습니다.
+제작사·개발사의 공식 자료와 기업·독립 운영 채널의 응용 강좌입니다. Claude는 Anthropic, Gemini는 Google, Grok은 xAI 항목에 있습니다. 독립 채널·행사 영상은 운영 형태를 표시했으며, 자료 열람과 API 실습·수강·인증서의 이용 조건은 다를 수 있습니다.
 
 | 기업·운영채널 | 공개강의·학습 자료 | 연도·형식 | 주요내용·비고 |
 | --- | --- | --- | --- |
@@ -92,6 +104,12 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 | **Hugging Face** | [전체 Learn](https://huggingface.co/learn) · [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) · [Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) | 텍스트·영상·노트북 | Transformers, 데이터·토크나이저, 미세조정, 추론 모델, 에이전트 구현 |
 | **Microsoft** | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Version 3 · 21레슨 | 개념 설명·짧은 영상·Python/TypeScript 예제. 저장소에 한국어 번역 링크 제공 |
 | **NVIDIA** | [Self-Paced Training / DLI](https://www.nvidia.com/en-us/training/self-paced-courses/) | 자율 학습형 강좌 카탈로그 | 생성 AI·LLM, 가속 컴퓨팅, AI 인프라. 무료·유료 강좌를 구분해 선택 |
+| Vizuara | [신경망 직접 구현](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) · [ML: Teach by Doing](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L) · [SLM 직접 만들기](https://www.youtube.com/watch?v=pOFcwcwtv3k) | 영어 / 공개 실습 강좌·단일 워크숍 | 신경망·ML·소형 언어 모델 구현. 공개 영상과 별도 유료 부트캠프는 구분 |
+| Sebastian Raschka · 독립 연구자 채널 | [LLM 영상 목록](https://www.youtube.com/playlist?list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm) · [LLMs from Scratch 코드](https://github.com/rasbt/LLMs-from-scratch) · [Reasoning from Scratch 코드](https://github.com/rasbt/reasoning-from-scratch) | 영어 / 공개 영상·책 공식 코드 | PyTorch로 LLM·추론 모델 구현, 평가·강화학습·증류. 책·별도 Manning 동영상 강좌와 공개 자료의 조건은 구분 |
+| Lera Andronova · 독립 채널 | [ML 해설 채널](https://www.youtube.com/@lerabyte) · [LLM 원리·직접 구현 입문](https://www.youtube.com/watch?v=u1_qczBrhow) | 영어 / 개념 해설·단일 영상 | 신경망·기초 ML·언어 모델. 대학 정규 강좌나 특정 AI 기업 공식 교육으로 분류하지 않음 |
+| Justin Angel · 독립 채널 | [Build Your Own LLM Workshop](https://www.youtube.com/playlist?list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6) | 영어 / 확인일 26개 영상 항목 | PyTorch·토크나이저·Attention·사전학습·평가·instruction tuning·강화학습. 갱신판과 이전 영상이 함께 포함 |
+| Syntax · 개발자 교육 채널 | [LLMs Explained](https://www.youtube.com/watch?v=YmLp8qe87A0) · [설명에 연결된 예제 코드](https://github.com/w3cj/how-llms-work) | 영어 / 약 52분 단일 해설·코드 | 토큰·임베딩·Transformer 작동 원리. 모델 제작사 공식 강좌가 아닌 개발자 교육 영상 |
+| AI Engineer · 행사 채널 | [Training an LLM from Scratch, Locally](https://www.youtube.com/watch?v=UsB70Tf5zcE) | 영어 / 약 81분 단일 워크숍 | ElevenLabs의 Angelos Perivolaropoulos 발표. 게시자는 AI Engineer이며 ElevenLabs 공식 정규 강좌와 구분 |
 
 <details>
 <summary>확인 기록·기여 방법</summary>
@@ -101,6 +119,8 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 - [기존 강의 확인 기록](docs/verification-2026-10-25.md)
 - [KOCW·KOOC·이준석·말러랩 확인 기록](docs/additional-sources-2026-10-25.md)
 - [대학·기업 확장 목록 확인 기록](docs/global-resources-2026-10-25.md)
+- [브라우저 채널·기업 교육 페이지 확인 기록](docs/browser-sources-2026-10-25.md)
 - [강의·자료 제안하기](https://github.com/teimakes/ml-dl-university/issues/new?template=lecture.yml) · [기여 안내](CONTRIBUTING.md)
 
 </details>
+

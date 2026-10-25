@@ -1,5 +1,5 @@
 name: 강의 추가·업데이트·링크 수정
-description: 대학 공개 강의, 최신 학기, 교수 소속 또는 링크 수정을 제안합니다.
+description: 대학 공개 강의·기업 학습 자료, 최신 학기, 교수 소속 또는 링크 수정을 제안합니다.
 title: "[강의] "
 body:
   - type: dropdown
@@ -8,6 +8,7 @@ body:
       label: 제안 종류
       options:
         - 새 공개 강의
+        - 기업 공식 학습 자료·한국어 응용 강좌
         - 최신 학기·재생목록 반영
         - 교수·연구실 소속 변경
         - 링크 오류 수정
@@ -16,7 +17,7 @@ body:
   - type: input
     id: course
     attributes:
-      label: 강의·채널명 및 대학·강사
+      label: 강의·자료·채널명 및 대학·강사·제공사
       placeholder: "예: Stanford CS336 / Percy Liang·Tatsunori Hashimoto"
     validations:
       required: true
@@ -30,15 +31,15 @@ body:
   - type: input
     id: versions
     attributes:
-      label: 영상 학기와 자료 학기
-      placeholder: "예: 영상 2024 Spring / 자료 2026 Winter, 또는 연도 미확인"
+      label: 영상·자료 학기 또는 제품 버전·확인일
+      placeholder: "예: 영상 2024 Spring / 자료 2026 Winter, 또는 LangGraph 버전·확인일"
     validations:
       required: true
   - type: textarea
     id: sources
     attributes:
-      label: 공식 강좌·영상 링크
-      description: 강의 추가라면 공식 안내와 공개 영상 링크를 적어 주세요. 링크 수정이라면 기존 링크와 새 링크를 적어 주세요.
+      label: 공식 강좌·영상·학습 자료 링크
+      description: 공식 안내와 실제 학습 자료 링크를 적고 영상·문서·코드·신청형 과정을 구분해 주세요. 링크 수정이라면 기존 링크와 새 링크를 적어 주세요.
     validations:
       required: true
   - type: textarea

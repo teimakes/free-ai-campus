@@ -1,16 +1,70 @@
-# ML / DL University Lectures
+# ML/DL · LLM · AI Agent from Scratch
 
-ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 다섯 분류로 정리했습니다. **확인일: 2026-10-25**. 영상의 원 학기와 자료의 학기가 다를 수 있습니다.
+**무료 강의와 공개 코드로, 기초부터 직접 만드는 AI.**
 
-Curated machine learning, deep learning, LLM, and AI agent learning resources from universities, AI companies, and creators. Includes Korean and English lectures, notes, and code.
+Free lectures, notes, and code for building ML/DL models, LLMs, and AI agents from scratch.
+
+**수록된 학습 영상·노트·코드는 모두 무료로 열람할 수 있습니다.** 일부 플랫폼은 무료 가입이 필요하며, API·GPU 사용료와 선택형 유료 인증서는 별도입니다.
+
+**확인일: 2026-10-25** · 한국어·영어 자료. 영상의 원 학기와 자료의 학기가 다를 수 있습니다.
 
 [강의·자료 제안 / Suggest a resource](https://github.com/teimakes/ml-dl-university/issues/new?template=lecture.yml) · [기여 안내 / Contributing](CONTRIBUTING.md)
 
-**시작하기 / Start here**
+**시작하기 / Start Here**
 
-- **처음 배우기 / ML foundations**: [머신러닝 이론](https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j) → [머신러닝 실습](https://www.youtube.com/playlist?list=PLpIPLT0Pf7Io8pMhxJ6vhM1chReYa8KIn) → [MIT 딥러닝 입문](https://introtodeeplearning.com/)
-- **LLM 직접 구현하기 / Build an LLM**: [LLM 구현 입문](https://www.youtube.com/watch?v=u1_qczBrhow) → [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) → [Stanford CS336](https://cs336.stanford.edu/)
-- **RAG·에이전트 만들기 / RAG & agents**: [랭체인·랭그래프](https://www.youtube.com/playlist?list=PLs1bbgA7gF7fbga20bvT5nIRZjKxpa25n) → [LangChain Academy](https://academy.langchain.com/) → [CMU AI Agents](https://www.cmu-agents.com/)
+관심 있는 트랙을 고르고, 왼쪽에서 오른쪽으로 직접 구현해 보세요. Python 기초를 알고 시작하는 추천 순서입니다.
+
+```mermaid
+flowchart TB
+  subgraph ML["ML/DL from scratch"]
+    direction LR
+    M1["01 · 선형회귀<br/>NumPy로 학습 구현"] --> M2["02 · 신경망<br/>레이어·활성함수 구현"] --> M3["03 · 역전파·자동미분<br/>micrograd 만들기"]
+  end
+  subgraph LLM["LLM from scratch"]
+    direction LR
+    L1["01 · 토크나이저<br/>BPE 직접 구현"] --> L2["02 · GPT<br/>Transformer·사전학습"] --> L3["03 · 미세조정<br/>Instruction tuning"]
+  end
+  subgraph AGENT["AI Agent from scratch"]
+    direction LR
+    A1["01 · 에이전트 루프<br/>LLM + 도구 호출"] --> A2["02 · 평가·메모리<br/>에이전트 확장"] --> A3["03 · 리서치 에이전트<br/>계획·파일·하위 에이전트"]
+  end
+  ML ~~~ LLM
+  LLM ~~~ AGENT
+  classDef ml fill:#eff6ff,stroke:#2563eb,color:#172554,stroke-width:2px
+  classDef llm fill:#f5f3ff,stroke:#7c3aed,color:#3b0764,stroke-width:2px
+  classDef agent fill:#ecfdf5,stroke:#059669,color:#064e3b,stroke-width:2px
+  class M1,M2,M3 ml
+  class L1,L2,L3 llm
+  class A1,A2,A3 agent
+  style ML fill:#eff6ff,stroke:#93c5fd,color:#172554
+  style LLM fill:#f5f3ff,stroke:#c4b5fd,color:#3b0764
+  style AGENT fill:#ecfdf5,stroke:#6ee7b7,color:#064e3b
+```
+
+<details>
+<summary>무료 강의·코드 바로가기 / Free lectures & code</summary>
+
+**ML/DL from scratch — 선형회귀부터 자동미분까지**
+
+1. 선형회귀 — Aladdin Persson: [강의](https://youtu.be/pCCUnoes1Po) · [NumPy 코드](https://github.com/AladdinPersson/Machine-Learning-Collection/blob/master/ML/algorithms/linearregression/linear_regression_gradient_descent.py)
+2. 신경망 — Vizuara: [신경망 직접 구현 재생목록](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) · 차시별 영상 설명의 학습 자료
+3. 역전파·자동미분 — Andrej Karpathy: [micrograd 강의](https://www.youtube.com/watch?v=VMj-3S1tku0) · [코드·노트북](https://github.com/karpathy/nn-zero-to-hero/tree/master/lectures/micrograd)
+
+**LLM from scratch — 토큰에서 학습 가능한 언어 모델까지**
+
+1. BPE 토크나이저 — Andrej Karpathy: [강의](https://www.youtube.com/watch?v=zduSFxRajkE) · [minbpe 코드](https://github.com/karpathy/minbpe)
+2. GPT 구현·사전학습 — Andrej Karpathy: [강의](https://www.youtube.com/watch?v=kCc8FmEb1nY) · [강의 코드](https://github.com/karpathy/ng-video-lecture)
+3. Instruction tuning — Sebastian Raschka: [무료 코드·설명](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch07) · [전체 구현 자료](https://github.com/rasbt/LLMs-from-scratch)
+
+**AI Agent from scratch — 기본 루프에서 리서치 에이전트까지**
+
+1. LLM·도구 호출 루프 — Hugging Face: [Dummy Agent 튜토리얼](https://huggingface.co/learn/agents-course/unit1/dummy-agent-library) · [노트북](https://huggingface.co/agents-course/notebooks/blob/main/unit1/dummy_agent_library.ipynb)
+2. 평가·사람의 검토·메모리 — LangChain: [Agents from Scratch 노트북·코드](https://github.com/langchain-ai/agents-from-scratch)
+3. 계획·파일·하위 에이전트 — LangChain: [Deep Agents from Scratch 노트북·코드](https://github.com/langchain-ai/deep-agents-from-scratch)
+
+Agent 경로는 Python으로 기본 루프를 이해한 뒤 LangGraph를 사용해 기능을 확장합니다. 강좌를 따라 모델 API를 호출하거나 연산 자원을 사용할 때의 비용은 학습 자료의 무료 열람과 별개입니다.
+
+</details>
 
 **자료 목록 / Browse resources**
 
@@ -90,7 +144,10 @@ Curated machine learning, deep learning, LLM, and AI agent learning resources fr
 | Mistral AI | [Learn with Mistral](https://learn.mistral.ai/) · [Cookbooks](https://docs.mistral.ai/resources/cookbooks) · [공식 Quickstarts](https://docs.mistral.ai/) | 웨비나·영상·코드 예제 | API 입문, OCR·문서 처리, RAG, 에이전트·워크플로. Cookbook에는 커뮤니티 작성 예제도 포함 |
 | Grok | [Quickstart](https://docs.x.ai/developers/quickstart) | 문서·코드 | API 호출, 추론, 구조화 출력, 도구 호출·검색. 공개 정규 강의 재생목록으로 분류하지 않음 |
 | LangChain | [LangChain Academy](https://academy.langchain.com/) | 공식 강좌 | LangChain·LangGraph 입문, Deep Agents, LangSmith 평가·배포·관측. 강좌 콘텐츠 무료, 인증 시험은 별도 |
+| LangChain | [Agents from Scratch](https://github.com/langchain-ai/agents-from-scratch) | 무료 노트북·코드 | LangGraph 기반 에이전트 구현·평가·사람의 검토·메모리 |
+| LangChain | [Deep Agents from Scratch](https://github.com/langchain-ai/deep-agents-from-scratch) | 무료 노트북·코드 | 계획·파일 시스템·하위 에이전트를 조합한 리서치 에이전트 |
 | Hugging Face | [전체 Learn](https://huggingface.co/learn) | 텍스트·영상·노트북 | Transformers, 데이터·토크나이저, 미세조정, 추론 모델, 에이전트 구현 |
+| Hugging Face | [Dummy Agent Library](https://huggingface.co/learn/agents-course/unit1/dummy-agent-library) | 무료 튜토리얼·노트북 | Python 함수로 LLM·도구·관찰 결과를 연결하는 기본 에이전트 루프 |
 | Microsoft | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Version 3 · 21레슨 | 개념 설명·짧은 영상·Python/TypeScript 예제. 저장소에 한국어 번역 링크 제공 |
 
 ## 유튜브 채널
@@ -108,6 +165,10 @@ Curated machine learning, deep learning, LLM, and AI agent learning resources fr
 | [Justin Angel](https://www.youtube.com/@JustinAngelAI) | [Build Your Own LLM Workshop](https://www.youtube.com/playlist?list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6) | 강의 별 description에 학습 자료 링크 제공 | PyTorch·토크나이저·Attention·사전학습·평가·instruction tuning·강화학습 |
 | [Syntax](https://www.youtube.com/@syntaxfm) | [LLMs Explained](https://www.youtube.com/watch?v=YmLp8qe87A0) | [예제 코드](https://github.com/w3cj/how-llms-work) | 토큰·임베딩·Transformer의 원리와 코드 실습 |
 | [AI Engineer](https://www.youtube.com/@aiDotEngineer) | [Training an LLM from Scratch, Locally](https://www.youtube.com/watch?v=UsB70Tf5zcE) |  | 로컬 환경에서 LLM 학습. ElevenLabs의 Angelos Perivolaropoulos 발표 |
+| [Aladdin Persson](https://www.youtube.com/c/AladdinPersson) | [Linear Regression with Gradient Descent](https://youtu.be/pCCUnoes1Po) | [NumPy 구현](https://github.com/AladdinPersson/Machine-Learning-Collection/blob/master/ML/algorithms/linearregression/linear_regression_gradient_descent.py) | 선형회귀·손실함수·경사하강법 직접 구현 |
+| [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | [Neural Networks & Backpropagation: micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) | [코드·노트북](https://github.com/karpathy/nn-zero-to-hero/tree/master/lectures/micrograd) | 신경망·역전파·자동미분 엔진 직접 구현 |
+| [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) | [minbpe](https://github.com/karpathy/minbpe) | BPE 토크나이저의 학습·인코딩·디코딩 직접 구현 |
+| [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | [Let's build GPT: from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY) | [강의 코드](https://github.com/karpathy/ng-video-lecture) | Transformer 기반 언어 모델 구현·학습·텍스트 생성 |
 
 <details>
 <summary>확인 기록·기여 방법</summary>
@@ -118,6 +179,7 @@ Curated machine learning, deep learning, LLM, and AI agent learning resources fr
 - [KOCW·KOOC·이준석·말러랩 확인 기록](docs/additional-sources-2026-10-25.md)
 - [대학·기업 확장 목록 확인 기록](docs/global-resources-2026-10-25.md)
 - [브라우저 채널·기업 교육 페이지 확인 기록](docs/browser-sources-2026-10-25.md)
+- [From Scratch 학습 경로·무료 자료 확인 기록](docs/from-scratch-roadmap-2026-10-25.md)
 - [강의·자료 제안하기](https://github.com/teimakes/ml-dl-university/issues/new?template=lecture.yml) · [기여 안내](CONTRIBUTING.md)
 
 </details>

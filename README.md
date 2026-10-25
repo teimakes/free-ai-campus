@@ -2,6 +2,10 @@
 
 ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 다섯 분류로 정리했습니다. **확인일: 2026-10-25**. 영상의 원 학기와 자료의 학기가 다를 수 있습니다.
 
+Curated machine learning, deep learning, LLM, and AI agent learning resources from universities, AI companies, and creators. Includes Korean and English lectures, notes, and code.
+
+[강의·자료 제안 / Suggest a resource](https://github.com/teimakes/ml-dl-university/issues/new?template=lecture.yml) · [기여 안내 / Contributing](CONTRIBUTING.md)
+
 **시작하기 / Start here**
 
 - **처음 배우기 / ML foundations**: [머신러닝 이론](https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j) → [머신러닝 실습](https://www.youtube.com/playlist?list=PLpIPLT0Pf7Io8pMhxJ6vhM1chReYa8KIn) → [MIT 딥러닝 입문](https://introtodeeplearning.com/)

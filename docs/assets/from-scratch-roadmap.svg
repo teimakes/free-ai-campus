@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="584" viewBox="0 0 1120 584" role="img" aria-labelledby="title description">
+  <title id="title">Free AI from Scratch learning roadmap</title>
+  <desc id="description">무료 강의·노트·코드로 배우는 세 경로. ML/DL: 선형회귀, 신경망, 역전파·자동미분. LLM: BPE 토크나이저, GPT 구현·사전학습, 미세조정. AI Agent: 도구 호출 루프, 평가·메모리, 리서치 에이전트. 각 경로는 왼쪽에서 오른쪽으로 진행합니다.</desc>
+  <defs>
+    <marker id="arrow-ml" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#2563eb"/></marker>
+    <marker id="arrow-llm" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#7c3aed"/></marker>
+    <marker id="arrow-agent" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#059669"/></marker>
+  </defs>
+  <g font-family="Arial, Malgun Gothic, Apple SD Gothic Neo, sans-serif">
+    <rect x="1" y="1" width="1118" height="582" rx="20" fill="#f8fafc" stroke="#dbe4ee" stroke-width="2"/>
+    <text x="32" y="33" font-size="16" font-weight="700" letter-spacing="1" fill="#475569">FREE LECTURES · NOTES · CODE</text>
+    <g aria-label="ML/DL from scratch">
+      <rect x="24" y="56" width="1072" height="156" rx="14" fill="#eff6ff" stroke="#bfdbfe"/>
+      <text x="52" y="88" font-size="23" font-weight="700" fill="#2563eb">ML/DL from scratch</text>
+      <rect x="52" y="108" width="300" height="78" rx="10" fill="#ffffff" stroke="#bfdbfe" stroke-width="2"/>
+      <rect x="52" y="108" width="5" height="78" rx="2" fill="#2563eb"/>
+      <text x="72" y="138" font-size="21" font-weight="700" fill="#0f172a">01  선형회귀</text>
+      <text x="72" y="166" font-size="18" fill="#475569">NumPy로 학습 구현</text>
+      <path d="M366 147 H392" stroke="#2563eb" stroke-width="2.5" fill="none" marker-end="url(#arrow-ml)"/>
+      <rect x="410" y="108" width="300" height="78" rx="10" fill="#ffffff" stroke="#bfdbfe" stroke-width="2"/>
+      <rect x="410" y="108" width="5" height="78" rx="2" fill="#2563eb"/>
+      <text x="430" y="138" font-size="21" font-weight="700" fill="#0f172a">02  신경망</text>
+      <text x="430" y="166" font-size="18" fill="#475569">레이어·활성함수 구현</text>
+      <path d="M724 147 H750" stroke="#2563eb" stroke-width="2.5" fill="none" marker-end="url(#arrow-ml)"/>
+      <rect x="768" y="108" width="300" height="78" rx="10" fill="#ffffff" stroke="#bfdbfe" stroke-width="2"/>
+      <rect x="768" y="108" width="5" height="78" rx="2" fill="#2563eb"/>
+      <text x="788" y="138" font-size="21" font-weight="700" fill="#0f172a">03  역전파·자동미분</text>
+      <text x="788" y="166" font-size="18" fill="#475569">micrograd 만들기</text>
+    </g>
+    <g aria-label="LLM from scratch">
+      <rect x="24" y="230" width="1072" height="156" rx="14" fill="#f5f3ff" stroke="#ddd6fe"/>
+      <text x="52" y="262" font-size="23" font-weight="700" fill="#7c3aed">LLM from scratch</text>
+      <rect x="52" y="282" width="300" height="78" rx="10" fill="#ffffff" stroke="#ddd6fe" stroke-width="2"/>
+      <rect x="52" y="282" width="5" height="78" rx="2" fill="#7c3aed"/>
+      <text x="72" y="312" font-size="21" font-weight="700" fill="#0f172a">01  토크나이저</text>
+      <text x="72" y="340" font-size="18" fill="#475569">BPE 직접 구현</text>
+      <path d="M366 321 H392" stroke="#7c3aed" stroke-width="2.5" fill="none" marker-end="url(#arrow-llm)"/>
+      <rect x="410" y="282" width="300" height="78" rx="10" fill="#ffffff" stroke="#ddd6fe" stroke-width="2"/>
+      <rect x="410" y="282" width="5" height="78" rx="2" fill="#7c3aed"/>
+      <text x="430" y="312" font-size="21" font-weight="700" fill="#0f172a">02  GPT</text>
+      <text x="430" y="340" font-size="18" fill="#475569">Transformer·사전학습</text>
+      <path d="M724 321 H750" stroke="#7c3aed" stroke-width="2.5" fill="none" marker-end="url(#arrow-llm)"/>
+      <rect x="768" y="282" width="300" height="78" rx="10" fill="#ffffff" stroke="#ddd6fe" stroke-width="2"/>
+      <rect x="768" y="282" width="5" height="78" rx="2" fill="#7c3aed"/>
+      <text x="788" y="312" font-size="21" font-weight="700" fill="#0f172a">03  미세조정</text>
+      <text x="788" y="340" font-size="18" fill="#475569">Instruction tuning</text>
+    </g>
+    <g aria-label="AI Agent from scratch">
+      <rect x="24" y="404" width="1072" height="156" rx="14" fill="#ecfdf5" stroke="#a7f3d0"/>
+      <text x="52" y="436" font-size="23" font-weight="700" fill="#059669">AI Agent from scratch</text>
+      <rect x="52" y="456" width="300" height="78" rx="10" fill="#ffffff" stroke="#a7f3d0" stroke-width="2"/>
+      <rect x="52" y="456" width="5" height="78" rx="2" fill="#059669"/>
+      <text x="72" y="486" font-size="21" font-weight="700" fill="#0f172a">01  에이전트 루프</text>
+      <text x="72" y="514" font-size="18" fill="#475569">LLM + 도구 호출</text>
+      <path d="M366 495 H392" stroke="#059669" stroke-width="2.5" fill="none" marker-end="url(#arrow-agent)"/>
+      <rect x="410" y="456" width="300" height="78" rx="10" fill="#ffffff" stroke="#a7f3d0" stroke-width="2"/>
+      <rect x="410" y="456" width="5" height="78" rx="2" fill="#059669"/>
+      <text x="430" y="486" font-size="21" font-weight="700" fill="#0f172a">02  평가·메모리</text>
+      <text x="430" y="514" font-size="18" fill="#475569">사람의 검토·상태 확장</text>
+      <path d="M724 495 H750" stroke="#059669" stroke-width="2.5" fill="none" marker-end="url(#arrow-agent)"/>
+      <rect x="768" y="456" width="300" height="78" rx="10" fill="#ffffff" stroke="#a7f3d0" stroke-width="2"/>
+      <rect x="768" y="456" width="5" height="78" rx="2" fill="#059669"/>
+      <text x="788" y="486" font-size="21" font-weight="700" fill="#0f172a">03  리서치 에이전트</text>
+      <text x="788" y="514" font-size="18" fill="#475569">계획·파일·하위 에이전트</text>
+    </g>
+  </g>
+</svg>

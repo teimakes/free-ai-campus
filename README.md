@@ -14,32 +14,7 @@ Free lectures, notes, and code for building ML/DL models, LLMs, and AI agents fr
 
 관심 있는 트랙을 고르고, 왼쪽에서 오른쪽으로 직접 구현해 보세요. Python 기초를 알고 시작하는 추천 순서입니다.
 
-```mermaid
-flowchart TB
-  subgraph ML["ML/DL from scratch"]
-    direction LR
-    M1["01 · 선형회귀<br/>NumPy로 학습 구현"] --> M2["02 · 신경망<br/>레이어·활성함수 구현"] --> M3["03 · 역전파·자동미분<br/>micrograd 만들기"]
-  end
-  subgraph LLM["LLM from scratch"]
-    direction LR
-    L1["01 · 토크나이저<br/>BPE 직접 구현"] --> L2["02 · GPT<br/>Transformer·사전학습"] --> L3["03 · 미세조정<br/>Instruction tuning"]
-  end
-  subgraph AGENT["AI Agent from scratch"]
-    direction LR
-    A1["01 · 에이전트 루프<br/>LLM + 도구 호출"] --> A2["02 · 평가·메모리<br/>에이전트 확장"] --> A3["03 · 리서치 에이전트<br/>계획·파일·하위 에이전트"]
-  end
-  ML ~~~ LLM
-  LLM ~~~ AGENT
-  classDef ml fill:#eff6ff,stroke:#2563eb,color:#172554,stroke-width:2px
-  classDef llm fill:#f5f3ff,stroke:#7c3aed,color:#3b0764,stroke-width:2px
-  classDef agent fill:#ecfdf5,stroke:#059669,color:#064e3b,stroke-width:2px
-  class M1,M2,M3 ml
-  class L1,L2,L3 llm
-  class A1,A2,A3 agent
-  style ML fill:#eff6ff,stroke:#93c5fd,color:#172554
-  style LLM fill:#f5f3ff,stroke:#c4b5fd,color:#3b0764
-  style AGENT fill:#ecfdf5,stroke:#6ee7b7,color:#064e3b
-```
+![ML/DL · LLM · AI Agent from scratch 무료 학습 로드맵](docs/assets/from-scratch-roadmap.svg)
 
 <details>
 <summary>무료 강의·코드 바로가기 / Free lectures & code</summary>

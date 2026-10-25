@@ -1,11 +1,12 @@
 # ML / DL University Lectures
 
-ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 네 분류로 정리했습니다. **확인일: 2026-10-25**. 영상의 원 학기와 자료의 학기가 다를 수 있습니다.
+ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 다섯 분류로 정리했습니다. **확인일: 2026-10-25**. 영상의 원 학기와 자료의 학기가 다를 수 있습니다.
 
 - [한국 대학 공개강의](#한국-대학-공개강의)
 - [한국 기업 공개강의](#한국-기업-공개강의)
 - [해외 대학 공개강의](#해외-대학-공개강의)
 - [해외 기업 공개강의](#해외-기업-공개강의)
+- [해외 유튜브 채널](#해외-유튜브-채널)
 
 ## 한국 대학 공개강의
 
@@ -67,7 +68,7 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 
 ## 해외 기업 공개강의
 
-제작사·개발사의 공식 자료와 기업·독립 운영 채널의 응용 강좌입니다. Claude는 Anthropic, Gemini는 Google, Grok은 xAI 항목에 있습니다. 독립 채널·행사 영상은 운영 형태를 표시했으며, 자료 열람과 API 실습·수강·인증서의 이용 조건은 다를 수 있습니다.
+제작사·개발사의 공식 학습 자료입니다. 자료 열람과 API 실습·수강·인증서의 이용 조건은 다를 수 있습니다.
 
 | 기업·운영채널 | 공개강의 | 연도·형식 | 주요내용 |
 | --- | --- | --- | --- |
@@ -79,6 +80,13 @@ ML·DL·NLP·컴퓨터 비전·강화학습·AI 에이전트 학습 자료를 �
 | LangChain | [LangChain Academy](https://academy.langchain.com/) | 공식 강좌 | LangChain·LangGraph 입문, Deep Agents, LangSmith 평가·배포·관측. 강좌 콘텐츠 무료, 인증 시험은 별도 |
 | Hugging Face | [전체 Learn](https://huggingface.co/learn) | 텍스트·영상·노트북 | Transformers, 데이터·토크나이저, 미세조정, 추론 모델, 에이전트 구현 |
 | Microsoft | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Version 3 · 21레슨 | 개념 설명·짧은 영상·Python/TypeScript 예제. 저장소에 한국어 번역 링크 제공 |
+
+## 해외 유튜브 채널
+
+유튜버·독립 연구자·교육 채널의 공개 강의와 학습 자료입니다.
+
+| 채널 | 공개강의 | 연도·형식 | 주요내용 |
+| --- | --- | --- | --- |
 | Vizuara | [신경망 직접 구현](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) · [ML: Teach by Doing](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSi-nLQ4XV2Mds8Z7bihK68L) · [SLM 직접 만들기](https://www.youtube.com/watch?v=pOFcwcwtv3k) | 영어 / 공개 실습 강좌·단일 워크숍 | 신경망·ML·소형 언어 모델 구현. 공개 영상과 별도 유료 부트캠프는 구분 |
 | Sebastian Raschka · 독립 연구자 채널 | [LLM 영상 목록](https://www.youtube.com/playlist?list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm) · [LLMs from Scratch 코드](https://github.com/rasbt/LLMs-from-scratch) · [Reasoning from Scratch 코드](https://github.com/rasbt/reasoning-from-scratch) | 영어 / 공개 영상·책 공식 코드 | PyTorch로 LLM·추론 모델 구현, 평가·강화학습·증류. 책·별도 Manning 동영상 강좌와 공개 자료의 조건은 구분 |
 | Lera Andronova · 독립 채널 | [ML 해설 채널](https://www.youtube.com/@lerabyte) · [LLM 원리·직접 구현 입문](https://www.youtube.com/watch?v=u1_qczBrhow) | 영어 / 개념 해설·단일 영상 | 신경망·기초 ML·언어 모델. 대학 정규 강좌나 특정 AI 기업 공식 교육으로 분류하지 않음 |

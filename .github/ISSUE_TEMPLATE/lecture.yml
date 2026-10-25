@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         무료 공개 강의·노트·코드를 제안하는 양식입니다. 링크·소속 수정도 이곳에 적어 주세요.
-        표 형식은 [기여 안내](https://github.com/teimakes/ml-dl-university/blob/main/CONTRIBUTING.md)에 있습니다.
+        표 형식은 [기여 안내](https://github.com/teimakes/free-ai-campus/blob/main/CONTRIBUTING.md)에 있습니다.
   - type: dropdown
     id: change_type
     attributes:

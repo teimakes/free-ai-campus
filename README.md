@@ -18,11 +18,25 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 
 **자료 목록 / Browse resources**
 
+- [목적별 한국어 학습 가이드](#목적별-한국어-학습-가이드)
 - [한국 대학 공개강의](#한국-대학-공개강의)
 - [한국 기업 공개강의](#한국-기업-공개강의)
 - [해외 대학 공개강의](#해외-대학-공개강의)
 - [해외 기업 공개강의](#해외-기업-공개강의)
 - [유튜브 채널](#유튜브-채널)
+
+## 목적별 한국어 학습 가이드
+
+원문과 함께 읽는 한국어 개요·선수지식·실습 목표입니다. 먼저 추가한 **6개 자료의 가이드**이며, 전체 강의 번역은 아닙니다. 기존 대학 중심의 from scratch 경로에 실습·심화 자료를 더해 골라 볼 수 있습니다.
+
+| 학습 목적 | 한국어 가이드 | 시작 전 준비 |
+| --- | --- | --- |
+| 딥러닝 원리·구현 | [CMU 11-785](docs/ko/cmu-11785/README.md) | Python·미분·선형대수·확률 |
+| LLM 활용·미세조정 | [Hugging Face LLM Course](docs/ko/hf-llm/README.md) | Python·딥러닝 기초 |
+| 강화학습·의사결정 | [Berkeley CS185/285](docs/ko/berkeley-cs285/README.md) | 머신러닝·최적화·기초 강화학습 |
+| 에이전트·도구 연결 | [HF Agents](docs/ko/hf-agents/README.md) · [HF MCP](docs/ko/hf-mcp/README.md) · [Microsoft AI Agents](docs/ko/ms-ai-agents/README.md) | Python·LLM 기초, MCP는 API 개념 |
+
+[한국어 가이드 전체 안내](docs/ko/README.md) · [2026-11-10 추가 자료 확인 기록](docs/content-update-2026-11-10.md)
 
 ## 한국 대학 공개강의
 
@@ -74,6 +88,8 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 | CMU/Graham Neubig | CMU 11-664/763 — Inference Algorithms for Language Modeling | 2025 Fall·[재생목록](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DY15Ob83nmwBAVyNtUQadX) | [강의자료](https://www.phontron.com/class/lminference-fall2025/) | LLM Inference |
 | NYU/Alfredo Canziani | NYU-DLFL25U — Introduction to Deep Learning Research | [재생목록](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cKSM86olUgLhpLKs_-N2K4) | [강의자료](https://atcold.github.io/NYU-DLFL25U/) | 신경망 수학·구현 |
 | UMD/Mohit Iyyer | CMSC723 — Natural Language Processing | 2026 Fall·[재생목록](https://www.youtube.com/playlist?list=PLFq3c7ZsRdno) | [강의자료](https://www.cs.umd.edu/~miyyer/cmsc723/) | NLP·LLM |
+| CMU/Bhiksha Raj·Rita Singh | 11-785 — Introduction to Deep Learning | 2026 Fall·[차시별 영상·슬라이드](https://deeplearning.cs.cmu.edu/F26/pages/tables/lectures_table.html) | 2026 Fall·[공식 강좌](https://deeplearning.cs.cmu.edu/F26/) | 영어 · 진행 중·일부 차시 공개 · 신경망·CNN·순환망·Transformer · [한국어 가이드](docs/ko/cmu-11785/README.md) |
+| UC Berkeley/Sergey Levine | CS185/285 — Deep Reinforcement Learning | 2023 Fall·[재생목록](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) | 2026 Spring·[슬라이드·과제](https://rail.eecs.berkeley.edu/deeprlcourse/) | 영어 · 모방학습·정책경사·오프라인 RL·LLM RL · 영상과 자료 학기 다름 · [한국어 가이드](docs/ko/berkeley-cs285/README.md) |
 
 ## 해외 기업 공개강의
 
@@ -86,7 +102,13 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 | Grok | [Quickstart](https://docs.x.ai/developers/quickstart) | 문서·코드 | API·추론·구조화 출력·도구 호출·검색 |
 | LangChain | [LangChain Academy](https://academy.langchain.com/) | 공식 강좌 | LangChain·LangGraph·Deep Agents·LangSmith 평가·배포·관측 (인증 시험 별도) |
 | Hugging Face | [전체 Learn](https://huggingface.co/learn) | 텍스트·영상·노트북 | Transformers, 데이터·토크나이저, 미세조정, 추론 모델, 에이전트 구현 |
+| Hugging Face | [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) · [한국어판](https://huggingface.co/learn/llm-course/ko/chapter1/1) | 문서·영상·실습 / 2026-11-10 확인 | 영어·일부 한국어 번역 · Transformers·데이터·미세조정·추론 모델 · [한국어 가이드](docs/ko/hf-llm/README.md) |
+| Hugging Face | [Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction) · [한국어판](https://huggingface.co/learn/agents-course/ko/unit0/introduction) | 문서·실습 / 2026-11-10 확인 | 영어·한국어 번역(갱신 차이 있음) · 도구 호출·Agentic RAG·평가 · 실습 계정 필요 · [한국어 가이드](docs/ko/hf-agents/README.md) |
+| Hugging Face | [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) | 문서·실습 / 2026-11-10 확인 | 영어 · MCP 구조·도구 연결·앱 구현 · 실습 계정 필요 · [한국어 가이드](docs/ko/hf-mcp/README.md) |
 | Microsoft | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Version 3 · 21레슨 | 생성형 AI·Python/TypeScript 예제·한국어 번역 |
+| Microsoft | [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) · [한국어판](https://github.com/microsoft/ai-agents-for-beginners/blob/main/translations/ko/README.md) | 문서·영상·Python 예제 / 2026-11-10 확인 | 영어·자동 한국어 번역 · 에이전트 설계·RAG·메모리·평가 · Azure 계정·서비스 비용 별도 · [한국어 가이드](docs/ko/ms-ai-agents/README.md) |
+
+자료 열람이 무료여도 API 호출·GPU·클라우드 실행 비용은 별도일 수 있습니다. 한국어 번역의 범위와 갱신 시점은 원문과 다를 수 있으며, 개별 가이드에 확인 범위를 적었습니다.
 
 ## 유튜브 채널
 

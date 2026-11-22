@@ -32,9 +32,9 @@ Python 강의는 원본 저장소의 같은 이름의 파일을 한국어 파일
 
 | 과제 | 한국어 자료 | 번역 범위 | 원본 |
 | --- | --- | --- | --- |
-| 1 | 기초 | 한국어 PDF 미완료 | [과제지](https://github.com/stanford-cs336/assignment1-basics/blob/main/cs336_assignment1_basics.pdf) |
-| 2 | 시스템 | 한국어 PDF 미완료 | [과제지](https://github.com/stanford-cs336/assignment2-systems/blob/main/cs336_assignment2_systems.pdf) |
+| 1 | [기초](assignment1-basics/cs336_assignment1_basics.pdf) | 한국어 PDF 47쪽 | [과제지](https://github.com/stanford-cs336/assignment1-basics/blob/main/cs336_assignment1_basics.pdf) |
+| 2 | [시스템](assignment2-systems/cs336_assignment2_systems.pdf) | 한국어 PDF 48쪽 | [과제지](https://github.com/stanford-cs336/assignment2-systems/blob/main/cs336_assignment2_systems.pdf) |
 | 3 | [스케일링 법칙](assignment3-scaling/cs336_assignment3_scaling.pdf) | 한국어 PDF 8쪽 | [과제지](https://github.com/stanford-cs336/assignment3-scaling/blob/main/cs336_assignment3_scaling.pdf) |
-| 4 | 데이터 | 한국어 PDF 미완료 | [과제지](https://github.com/stanford-cs336/assignment4-data/blob/main/cs336_assignment4_data.pdf) |
-| 5 | 추론 강화학습 | 한국어 PDF 미완료 | [과제지](https://github.com/stanford-cs336/assignment5-alignment/blob/main/cs336_spring2026_assignment5_alignment.pdf) |
-| 5 (선택) | 지시 미세조정과 RLHF | 한국어 PDF 미완료 | [과제지](https://github.com/stanford-cs336/assignment5-alignment/blob/main/cs336_spring2026_assignment5_supplement_safety_rlhf.pdf) |
+| 4 | [데이터](assignment4-data/cs336_assignment4_data.pdf) | 한국어 PDF 16쪽 | [과제지](https://github.com/stanford-cs336/assignment4-data/blob/main/cs336_assignment4_data.pdf) |
+| 5 | [추론 강화학습](assignment5-alignment/cs336_spring2026_assignment5_alignment.pdf) | 한국어 PDF 39쪽 | [과제지](https://github.com/stanford-cs336/assignment5-alignment/blob/main/cs336_spring2026_assignment5_alignment.pdf) |
+| 5 (선택) | [지시 미세조정과 RLHF](assignment5-alignment/cs336_spring2026_assignment5_supplement_safety_rlhf.pdf) | 한국어 PDF 18쪽 | [과제지](https://github.com/stanford-cs336/assignment5-alignment/blob/main/cs336_spring2026_assignment5_supplement_safety_rlhf.pdf) |

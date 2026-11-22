@@ -10,11 +10,11 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 
 ![ML/DL from scratch, LLM from scratch, AI Agent from scratch: 대학 공개강의 9개로 고른 세 학습 경로](docs/assets/from-scratch-roadmap.svg)
 
-| 경로 | 대학 강의 순서 | 직접 만들어 볼 것 |
-| --- | --- | --- |
-| **ML/DL from scratch** | ① [서울대 ML/DL I](https://www.youtube.com/playlist?list=PL0E_1UqNACXCpyohL0_uMNaqr0QuXOMBi) → ② [MIT 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) → ③ [Stanford CS231n](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) | NumPy로 역전파 계산 → 이미지 분류기 학습 |
-| **LLM from scratch** | ① [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) → ② [Stanford CS336](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) → ③ [CMU 11-711](https://www.youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx) | 토크나이저·Transformer 구현 → 작은 언어 모델 학습·평가 |
-| **AI Agent from scratch** | ① [Stanford CS221](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN) → ② [CMU 11-768](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) → ③ [Stanford CS329A](https://www.youtube.com/playlist?list=PLangBM27OtEA) | 도구 호출·실행 루프 구현 → 코딩 에이전트 평가 |
+| 경로 | 대학 강의 순서 |
+| --- | --- |
+| **ML/DL from scratch** | ① [서울대 ML/DL I](https://www.youtube.com/playlist?list=PL0E_1UqNACXCpyohL0_uMNaqr0QuXOMBi) → ② [MIT 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) → ③ [Stanford CS231n](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) |
+| **LLM from scratch** | ① [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) → ② [Stanford CS336](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) → ③ [CMU 11-711](https://www.youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx) |
+| **AI Agent from scratch** | ① [Stanford CS221](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN) → ② [CMU 11-768](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) → ③ [Stanford CS329A](https://www.youtube.com/playlist?list=PLangBM27OtEA) |
 
 **자료 목록 / Browse resources**
 
@@ -27,8 +27,6 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 
 ## 목적별 한국어 학습 가이드
 
-원문과 함께 읽는 한국어 개요·선수지식·실습 목표입니다. 먼저 추가한 **6개 자료의 가이드**이며, 전체 강의 번역은 아닙니다. 기존 대학 중심의 from scratch 경로에 실습·심화 자료를 더해 골라 볼 수 있습니다.
-
 | 학습 목적 | 한국어 가이드 | 시작 전 준비 |
 | --- | --- | --- |
 | 딥러닝 원리·구현 | [CMU 11-785](docs/ko/cmu-11785/README.md) | Python·미분·선형대수·확률 |
@@ -36,7 +34,7 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 | 강화학습·의사결정 | [Berkeley CS185/285](docs/ko/berkeley-cs285/README.md) | 머신러닝·최적화·기초 강화학습 |
 | 에이전트·도구 연결 | [HF Agents](docs/ko/hf-agents/README.md) · [HF MCP](docs/ko/hf-mcp/README.md) · [Microsoft AI Agents](docs/ko/ms-ai-agents/README.md) | Python·LLM 기초, MCP는 API 개념 |
 
-[한국어 가이드 전체 안내](docs/ko/README.md) · [2026-11-10 추가 자료 확인 기록](docs/content-update-2026-11-10.md)
+[한국어 자료 전체 목록](docs/ko/README.md)
 
 ## 한국 대학 공개강의
 
@@ -51,7 +49,7 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 | 고려대/김성범 |  | [채널](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/) | [연구실](https://dmqa.korea.ac.kr/) | ML·DL |
 | 고려대/김성범 | 머신러닝 이론 | [재생목록](https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j) |  | ML 101 |
 | 고려대/김성범 | 머신러닝 실습 | [재생목록](https://www.youtube.com/playlist?list=PLpIPLT0Pf7Io8pMhxJ6vhM1chReYa8KIn) |  | ML 실습 |
-| 고려대/안준용 | LLM-Wiki  | [공개 강의자료](https://joonan30.github.io/lecture-llm-wiki/) | [GitHub](https://github.com/joonan30/lecture-llm-wiki) | 논문·지식 관리 · 녹화 미확인 |
+| 고려대/안준용 | LLM-Wiki  | [공개 강의자료](https://joonan30.github.io/lecture-llm-wiki/) | [GitHub](https://github.com/joonan30/lecture-llm-wiki) | 논문·지식 관리 |
 | KAIST/KOOC | KAIST 강의 포털 | [홈페이지](https://online.kaist.ac.kr/kooc) | | 무료 가입·신청 필요 |
 | KAIST/서민준 |  | [채널](https://www.youtube.com/channel/UCriDmMe_Ieb8hnox1CBiFRA) | | 
 | KAIST/서민준 | AI605 — Deep Learning for NLP | [재생목록](https://www.youtube.com/playlist?list=PLN9tAT2r9TDwlfX18uHYVigflooo8DMgq) | 2022·[강의자료](https://seominjoon.github.io/kaist-ai605/) | NLP 101 |
@@ -102,13 +100,11 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 | Grok | [Quickstart](https://docs.x.ai/developers/quickstart) | 문서·코드 | API·추론·구조화 출력·도구 호출·검색 |
 | LangChain | [LangChain Academy](https://academy.langchain.com/) | 공식 강좌 | LangChain·LangGraph·Deep Agents·LangSmith 평가·배포·관측 (인증 시험 별도) |
 | Hugging Face | [전체 Learn](https://huggingface.co/learn) | 텍스트·영상·노트북 | Transformers, 데이터·토크나이저, 미세조정, 추론 모델, 에이전트 구현 |
-| Hugging Face | [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) · [한국어판](https://huggingface.co/learn/llm-course/ko/chapter1/1) | 문서·영상·실습 / 2026-11-10 확인 | 영어·일부 한국어 번역 · Transformers·데이터·미세조정·추론 모델 · [한국어 가이드](docs/ko/hf-llm/README.md) |
-| Hugging Face | [Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction) · [한국어판](https://huggingface.co/learn/agents-course/ko/unit0/introduction) | 문서·실습 / 2026-11-10 확인 | 영어·한국어 번역(갱신 차이 있음) · 도구 호출·Agentic RAG·평가 · 실습 계정 필요 · [한국어 가이드](docs/ko/hf-agents/README.md) |
-| Hugging Face | [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) | 문서·실습 / 2026-11-10 확인 | 영어 · MCP 구조·도구 연결·앱 구현 · 실습 계정 필요 · [한국어 가이드](docs/ko/hf-mcp/README.md) |
+| Hugging Face | [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) · [한국어판](https://huggingface.co/learn/llm-course/ko/chapter1/1) | 문서·영상·실습 | 영어·일부 한국어 번역 · Transformers·데이터·미세조정·추론 모델 · [한국어 가이드](docs/ko/hf-llm/README.md) |
+| Hugging Face | [Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction) · [한국어판](https://huggingface.co/learn/agents-course/ko/unit0/introduction) | 문서·실습 | 영어·한국어 번역(갱신 차이 있음) · 도구 호출·Agentic RAG·평가 · 실습 계정 필요 · [한국어 가이드](docs/ko/hf-agents/README.md) |
+| Hugging Face | [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) | 문서·실습 | 영어 · MCP 구조·도구 연결·앱 구현 · 실습 계정 필요 · [한국어 가이드](docs/ko/hf-mcp/README.md) |
 | Microsoft | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Version 3 · 21레슨 | 생성형 AI·Python/TypeScript 예제·한국어 번역 |
-| Microsoft | [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) · [한국어판](https://github.com/microsoft/ai-agents-for-beginners/blob/main/translations/ko/README.md) | 문서·영상·Python 예제 / 2026-11-10 확인 | 영어·자동 한국어 번역 · 에이전트 설계·RAG·메모리·평가 · Azure 계정·서비스 비용 별도 · [한국어 가이드](docs/ko/ms-ai-agents/README.md) |
-
-자료 열람이 무료여도 API 호출·GPU·클라우드 실행 비용은 별도일 수 있습니다. 한국어 번역의 범위와 갱신 시점은 원문과 다를 수 있으며, 개별 가이드에 확인 범위를 적었습니다.
+| Microsoft | [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) · [한국어판](https://github.com/microsoft/ai-agents-for-beginners/blob/main/translations/ko/README.md) | 문서·영상·Python 예제 | 영어·자동 한국어 번역 · 에이전트 설계·RAG·메모리·평가 · Azure 계정·서비스 비용 별도 · [한국어 가이드](docs/ko/ms-ai-agents/README.md) |
 
 ## 유튜브 채널
 
@@ -126,14 +122,3 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 | [Justin Angel](https://www.youtube.com/@JustinAngelAI) | [Build Your Own LLM Workshop](https://www.youtube.com/playlist?list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6) | 영상 설명란의 자료 링크 | PyTorch·토크나이저·Attention·사전학습·평가·instruction tuning·강화학습 |
 | [Syntax](https://www.youtube.com/@syntaxfm) | [LLMs Explained](https://www.youtube.com/watch?v=YmLp8qe87A0) | [예제 코드](https://github.com/w3cj/how-llms-work) | 토큰·임베딩·Transformer 원리·구현 |
 | [AI Engineer](https://www.youtube.com/@aiDotEngineer) | [Training an LLM from Scratch, Locally](https://www.youtube.com/watch?v=UsB70Tf5zcE) |  | 로컬 LLM 학습 · Angelos Perivolaropoulos (ElevenLabs) |
-
-<details>
-<summary>자료 확인 기록 · 2026-10-25</summary>
-
-- [학습 경로·참고 저장소](docs/from-scratch-roadmap-2026-10-25.md)
-- [대학 강의](docs/verification-2026-10-25.md)
-- [KOCW·KOOC·이준석·말러랩](docs/additional-sources-2026-10-25.md)
-- [대학·기업](docs/global-resources-2026-10-25.md)
-- [채널·기업 교육](docs/browser-sources-2026-10-25.md)
-
-</details>

@@ -66,59 +66,59 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 
 ## 해외 대학 공개강의
 
-| 대학교/교수 | 강좌 | 채널 | 공식자료 | 주요내용 |
-| --- | --- | --- | --- |--- |
-| Stanford/Percy Liang | CS221 — Artificial Intelligence: Principles and Techniques| [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN) | 2025 Fall·[강의자료](https://stanford-cs221.github.io/autumn2025/) |  |
-| Stanford/Tengyu Ma·Chris Ré | CS229 — Machine Learning | [재생목록](https://www.youtube.com/playlist?list=PLaqpC4kq8Gpw) | 2026 Spring·[강의자료](https://cs229.stanford.edu/index.html) | 머신러닝 기초, 지도학습
-| Stanford/Andrew Ng·Kian Katanforoosh | CS230 — Deep Learning | [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) | 2025 Fall·[강의자료](https://cs230.stanford.edu/) | 딥러닝 기초, 프로젝트 전략, 생성 모델, 에이전트·RAG |
-| Stanford/Christopher Manning | CS224N — Natural Language Processing with Deep Learning| 2024 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) | 2026 Winter·[강의자료](https://web.stanford.edu/class/cs224n/) | 자연어처리, 언어 모델 |
-| Stanford/Fei-Fei Li·Ehsan Adeli | CS231n — Deep Learning for Computer Vision | 2025 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) | 2026 Spring·[강의자료](https://cs231n.github.io/) | 신경망, CNN, 컴퓨터 비전, 실습 |
-| Stanford/Chelsea Finn | CS224R — Deep Reinforcement Learning | 2025 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL) | 2026 Spring·[강의자료](https://cs224r.stanford.edu/) | 모방학습, 딥 강화학습, 로보틱스·언어 모델 응용 |
-| Stanford/Percy Liang·Tatsunori Hashimoto | CS336 — Language Modeling from Scratch | [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) | 2026 Spring·[강의자료](https://cs336.stanford.edu/) | 토크나이저, Transformer 구현, GPU 최적화, 데이터, 평가, 후학습 · [한국어 강의·과제 목록](docs/ko/stanford-cs336/README.md) |
-| Stanford/Afshine Amidi·Shervine Amidi | CME295 — Transformers and Large Language Models | 2026 Fall·[재생목록](https://www.youtube.com/playlist?list=PLakGfbKCei80), 2025 Fall·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy) | 2026 Fall·[강의자료](https://cme295.stanford.edu/syllabus/) | Transformer, LLM 학습, RLHF·DPO |
-| Stanford/Afshine Amidi·Shervine Amidi | CME296 — Diffusion & Large Vision Models | 2026 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu) | 2026 Spring·[강의자료](https://cme296.stanford.edu/) | diffusion·score matching·flow matching·대규모 비전 모델 |
-| Stanford/Aakanksha Chowdhery·Azalia Mirhoseini | CS329A — Self-Improving AI Agents| [재생목록](https://www.youtube.com/playlist?list=PLangBM27OtEA) | [강의자료](https://cs329a.stanford.edu/) | 추론 시 연산 확장, 검증기, 도구·코드 피드백, 계획, 에이전트 평가 |
-| MIT/Alexander Amini | MIT6.S191 — Introduction to Deep Learning | 2026·[재생목록](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | 2026·[강의자료](https://introtodeeplearning.com/) | 딥러닝 입문, 생성 모델, LLM, 강화학습 |
-| MIT/Paul Liang | MAS.S60 — How to AI (Almost) Anything | 2025 Spring·[재생목록](https://www.youtube.com/playlist?list=PLc0Yh0D0XR4Z3wityRaEuu4rfzTHRIIAO) | [강의자료](https://mit-mi.github.io/how2ai-course/spring2025/) | 멀티모달 정렬·융합, 기반 모델, 인간-AI 상호작용 |
-| CMU/Sean Welleck | CMU CS 11-711 — Advanced NLP | 2026 Spring·[재생목록](https://www.youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx) | 2026 Spring·[강의자료](https://cmu-l3.github.io/anlp-spring2026/) | LLM의 모델링·학습·추론, 평가, 강화학습·에이전트 |
-| CMU/Graham Neubig |  | [채널](https://www.youtube.com/user/neubig) | [연구실](https://www.phontron.com/neulab) | NLP |
-| CMU/Graham Neubig | CMU 11-768 — AI Agents | 2026 Fall·[재생목록](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) | [강의자료](https://www.cmu-agents.com/) | 도구 호출·메모리·계획·평가 |
-| CMU/Graham Neubig | CMU 11-664/763 — Inference Algorithms for Language Modeling | 2025 Fall·[재생목록](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DY15Ob83nmwBAVyNtUQadX) | [강의자료](https://www.phontron.com/class/lminference-fall2025/) | LLM Inference |
-| NYU/Alfredo Canziani | NYU-DLFL25U — Introduction to Deep Learning Research | [재생목록](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cKSM86olUgLhpLKs_-N2K4) | [강의자료](https://atcold.github.io/NYU-DLFL25U/) | 신경망 수학·구현 |
-| UMD/Mohit Iyyer | CMSC723 — Natural Language Processing | 2026 Fall·[재생목록](https://www.youtube.com/playlist?list=PLFq3c7ZsRdno) | [강의자료](https://www.cs.umd.edu/~miyyer/cmsc723/) | NLP·LLM |
-| CMU/Bhiksha Raj·Rita Singh | 11-785 — Introduction to Deep Learning | 2026 Fall·[차시별 영상·슬라이드](https://deeplearning.cs.cmu.edu/F26/pages/tables/lectures_table.html) | 2026 Fall·[공식 강좌](https://deeplearning.cs.cmu.edu/F26/) | 영어 · 진행 중·일부 차시 공개 · 신경망·CNN·순환망·Transformer · [한국어 가이드](docs/ko/cmu-11785/README.md) |
-| UC Berkeley/Sergey Levine | CS185/285 — Deep Reinforcement Learning | 2023 Fall·[재생목록](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) | 2026 Spring·[슬라이드·과제](https://rail.eecs.berkeley.edu/deeprlcourse/) | 영어 · 모방학습·정책경사·오프라인 RL·LLM RL · 영상과 자료 학기 다름 · [한국어 가이드](docs/ko/berkeley-cs285/README.md) |
+| 대학교/교수 | 강좌 | 채널 | 공식자료 | 주요내용 | 한국어 번역 |
+| --- | --- | --- | --- |--- | --- |
+| Stanford/Percy Liang | CS221 — Artificial Intelligence: Principles and Techniques| [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN) | 2025 Fall·[강의자료](https://stanford-cs221.github.io/autumn2025/) |  | 강의·실습 번역본 미게시 |
+| Stanford/Tengyu Ma·Chris Ré | CS229 — Machine Learning | [재생목록](https://www.youtube.com/playlist?list=PLaqpC4kq8Gpw) | 2026 Spring·[강의자료](https://cs229.stanford.edu/index.html) | 머신러닝 기초, 지도학습 | [2018년 가을 치트시트](https://stanford.edu/~shervine/l/ko/teaching/cs-229/) |
+| Stanford/Andrew Ng·Kian Katanforoosh | CS230 — Deep Learning | [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) | 2025 Fall·[강의자료](https://cs230.stanford.edu/) | 딥러닝 기초, 프로젝트 전략, 생성 모델, 에이전트·RAG | [2019년 겨울 치트시트](https://web.stanford.edu/~shervine/l/ko/teaching/cs-230/) |
+| Stanford/Christopher Manning | CS224N — Natural Language Processing with Deep Learning| 2024 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) | 2026 Winter·[강의자료](https://web.stanford.edu/class/cs224n/) | 자연어처리, 언어 모델 | 공개 번역본 미확인 |
+| Stanford/Fei-Fei Li·Ehsan Adeli | CS231n — Deep Learning for Computer Vision | 2025 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) | 2026 Spring·[강의자료](https://cs231n.github.io/) | 신경망, CNN, 컴퓨터 비전, 실습 | [이전 학기 강의 노트](https://github.com/aikorea/cs231n) · [이미지 분류](https://github.com/aikorea/cs231n/blob/master/classification.md) |
+| Stanford/Chelsea Finn | CS224R — Deep Reinforcement Learning | 2025 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL) | 2026 Spring·[강의자료](https://cs224r.stanford.edu/) | 모방학습, 딥 강화학습, 로보틱스·언어 모델 응용 | 공개 번역본 미확인 |
+| Stanford/Percy Liang·Tatsunori Hashimoto | CS336 — Language Modeling from Scratch | [재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) | 2026 Spring·[강의자료](https://cs336.stanford.edu/) | 토크나이저, Transformer 구현, GPU 최적화, 데이터, 평가, 후학습 | [강의 17개](docs/ko/stanford-cs336/README.md#강의) · [과제지 6개](docs/ko/stanford-cs336/README.md#과제) |
+| Stanford/Afshine Amidi·Shervine Amidi | CME295 — Transformers and Large Language Models | 2026 Fall·[재생목록](https://www.youtube.com/playlist?list=PLakGfbKCei80), 2025 Fall·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy) | 2026 Fall·[강의자료](https://cme295.stanford.edu/syllabus/) | Transformer, LLM 학습, RLHF·DPO | 공개 번역본 미확인 |
+| Stanford/Afshine Amidi·Shervine Amidi | CME296 — Diffusion & Large Vision Models | 2026 Spring·[재생목록](https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu) | 2026 Spring·[강의자료](https://cme296.stanford.edu/) | diffusion·score matching·flow matching·대규모 비전 모델 | 공개 번역본 미확인 |
+| Stanford/Aakanksha Chowdhery·Azalia Mirhoseini | CS329A — Self-Improving AI Agents| [재생목록](https://www.youtube.com/playlist?list=PLangBM27OtEA) | [강의자료](https://cs329a.stanford.edu/) | 추론 시 연산 확장, 검증기, 도구·코드 피드백, 계획, 에이전트 평가 | 공개 번역본 미확인 |
+| MIT/Alexander Amini | MIT6.S191 — Introduction to Deep Learning | 2026·[재생목록](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | 2026·[강의자료](https://introtodeeplearning.com/) | 딥러닝 입문, 생성 모델, LLM, 강화학습 | 슬라이드·실습 번역본 미게시 |
+| MIT/Paul Liang | MAS.S60 — How to AI (Almost) Anything | 2025 Spring·[재생목록](https://www.youtube.com/playlist?list=PLc0Yh0D0XR4Z3wityRaEuu4rfzTHRIIAO) | [강의자료](https://mit-mi.github.io/how2ai-course/spring2025/) | 멀티모달 정렬·융합, 기반 모델, 인간-AI 상호작용 | 공개 번역본 미확인 |
+| CMU/Sean Welleck | CMU CS 11-711 — Advanced NLP | 2026 Spring·[재생목록](https://www.youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx) | 2026 Spring·[강의자료](https://cmu-l3.github.io/anlp-spring2026/) | LLM의 모델링·학습·추론, 평가, 강화학습·에이전트 | 공개 번역본 미확인 |
+| CMU/Graham Neubig |  | [채널](https://www.youtube.com/user/neubig) | [연구실](https://www.phontron.com/neulab) | NLP | 해당 없음 (채널) |
+| CMU/Graham Neubig | CMU 11-768 — AI Agents | 2026 Fall·[재생목록](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) | [강의자료](https://www.cmu-agents.com/) | 도구 호출·메모리·계획·평가 | 공개 번역본 미확인 |
+| CMU/Graham Neubig | CMU 11-664/763 — Inference Algorithms for Language Modeling | 2025 Fall·[재생목록](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DY15Ob83nmwBAVyNtUQadX) | [강의자료](https://www.phontron.com/class/lminference-fall2025/) | LLM Inference | 공개 번역본 미확인 |
+| NYU/Alfredo Canziani | NYU-DLFL25U — Introduction to Deep Learning Research | [재생목록](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cKSM86olUgLhpLKs_-N2K4) | [강의자료](https://atcold.github.io/NYU-DLFL25U/) | 신경망 수학·구현 | 공개 번역본 미확인 |
+| UMD/Mohit Iyyer | CMSC723 — Natural Language Processing | 2026 Fall·[재생목록](https://www.youtube.com/playlist?list=PLFq3c7ZsRdno) | [강의자료](https://www.cs.umd.edu/~miyyer/cmsc723/) | NLP·LLM | 공개 번역본 미확인 |
+| CMU/Bhiksha Raj·Rita Singh | 11-785 — Introduction to Deep Learning | 2026 Fall·[차시별 영상·슬라이드](https://deeplearning.cs.cmu.edu/F26/pages/tables/lectures_table.html) | 2026 Fall·[공식 강좌](https://deeplearning.cs.cmu.edu/F26/) | 영어 · 진행 중·일부 차시 공개 · 신경망·CNN·순환망·Transformer · [한국어 가이드](docs/ko/cmu-11785/README.md) | 공개 번역본 미확인 |
+| UC Berkeley/Sergey Levine | CS185/285 — Deep Reinforcement Learning | 2023 Fall·[재생목록](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) | 2026 Spring·[슬라이드·과제](https://rail.eecs.berkeley.edu/deeprlcourse/) | 영어 · 모방학습·정책경사·오프라인 RL·LLM RL · 영상과 자료 학기 다름 · [한국어 가이드](docs/ko/berkeley-cs285/README.md) | 공개 번역본 미확인 |
 
 ## 해외 기업 공개강의
 
-| 기업·운영채널 | 공개강의 | 연도·형식 | 주요내용 |
-| --- | --- | --- | --- |
-| OpenAI | [Developer Learn](https://developers.openai.com/learn) · [Cookbook](https://developers.openai.com/cookbook) | 학습 경로·영상·코드 예제 | 에이전트·앱 개발·모델 최적화 |
-| Anthropic | [Claude Academy](https://academy.claude.com/) | 무료 강좌·튜토리얼 | 프롬프팅·도구 사용·RAG·에이전트·MCP |
-| Gemini | [공식 Cookbook](https://github.com/google-gemini/cookbook) | 실습·노트북 | 멀티모달 입력·도구 호출 |
-| Mistral AI | [Learn with Mistral](https://learn.mistral.ai/) · [Cookbooks](https://docs.mistral.ai/resources/cookbooks) · [공식 Quickstarts](https://docs.mistral.ai/) | 웨비나·영상·코드 예제 | API·OCR·문서 처리·RAG·에이전트·워크플로 (커뮤니티 예제 포함) |
-| Grok | [Quickstart](https://docs.x.ai/developers/quickstart) | 문서·코드 | API·추론·구조화 출력·도구 호출·검색 |
-| LangChain | [LangChain Academy](https://academy.langchain.com/) | 공식 강좌 | LangChain·LangGraph·Deep Agents·LangSmith 평가·배포·관측 (인증 시험 별도) |
-| Hugging Face | [전체 Learn](https://huggingface.co/learn) | 텍스트·영상·노트북 | Transformers, 데이터·토크나이저, 미세조정, 추론 모델, 에이전트 구현 |
-| Hugging Face | [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) · [한국어판](https://huggingface.co/learn/llm-course/ko/chapter1/1) | 문서·영상·실습 | 영어·일부 한국어 번역 · Transformers·데이터·미세조정·추론 모델 · [한국어 가이드](docs/ko/hf-llm/README.md) |
-| Hugging Face | [Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction) · [한국어판](https://huggingface.co/learn/agents-course/ko/unit0/introduction) | 문서·실습 | 영어·한국어 번역(갱신 차이 있음) · 도구 호출·Agentic RAG·평가 · 실습 계정 필요 · [한국어 가이드](docs/ko/hf-agents/README.md) |
-| Hugging Face | [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) | 문서·실습 | 영어 · MCP 구조·도구 연결·앱 구현 · 실습 계정 필요 · [한국어 가이드](docs/ko/hf-mcp/README.md) |
-| Microsoft | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Version 3 · 21레슨 | 생성형 AI·Python/TypeScript 예제·한국어 번역 |
-| Microsoft | [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) · [한국어판](https://github.com/microsoft/ai-agents-for-beginners/blob/main/translations/ko/README.md) | 문서·영상·Python 예제 | 영어·자동 한국어 번역 · 에이전트 설계·RAG·메모리·평가 · Azure 계정·서비스 비용 별도 · [한국어 가이드](docs/ko/ms-ai-agents/README.md) |
+| 기업·운영채널 | 공개강의 | 연도·형식 | 주요내용 | 한국어 번역 |
+| --- | --- | --- | --- | --- |
+| OpenAI | [Developer Learn](https://developers.openai.com/learn) · [Cookbook](https://developers.openai.com/cookbook) | 학습 경로·영상·코드 예제 | 에이전트·앱 개발·모델 최적화 | AgentCore 워크숍 번역본 미게시 |
+| Anthropic | [Claude Academy](https://academy.claude.com/) | 무료 강좌·튜토리얼 | 프롬프팅·도구 사용·RAG·에이전트·MCP | [공식 강좌 목록](https://academy.claude.com/ko) · [AI 역량 기초](https://academy.claude.com/ko/courses/ai-fluency-framework-foundations) |
+| Gemini | [공식 Cookbook](https://github.com/google-gemini/cookbook) | 실습·노트북 | 멀티모달 입력·도구 호출 | 실습 노트북 번역본 미게시 |
+| Mistral AI | [Learn with Mistral](https://learn.mistral.ai/) · [Cookbooks](https://docs.mistral.ai/resources/cookbooks) · [공식 Quickstarts](https://docs.mistral.ai/) | 웨비나·영상·코드 예제 | API·OCR·문서 처리·RAG·에이전트·워크플로 (커뮤니티 예제 포함) | 공개 번역본 미확인 |
+| Grok | [Quickstart](https://docs.x.ai/developers/quickstart) | 문서·코드 | API·추론·구조화 출력·도구 호출·검색 | 공개 번역본 미확인 |
+| LangChain | [LangChain Academy](https://academy.langchain.com/) | 공식 강좌 | LangChain·LangGraph·Deep Agents·LangSmith 평가·배포·관측 (인증 시험 별도) | LangGraph 실습 번역본 미게시 |
+| Hugging Face | [전체 Learn](https://huggingface.co/learn) | 텍스트·영상·노트북 | Transformers, 데이터·토크나이저, 미세조정, 추론 모델, 에이전트 구현 | [오디오 강좌](https://huggingface.co/learn/audio-course/ko/chapter0/introduction) · [확산 모델 1단원](https://github.com/deep-diver/diffusion-models-class/blob/main/unit1/README_KR.md) |
+| Hugging Face | [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) | 문서·영상·실습 | Transformers·데이터·미세조정·추론 모델 · [한국어 가이드](docs/ko/hf-llm/README.md) | [공식 교재 (일부 단원)](https://huggingface.co/learn/llm-course/ko/chapter1/1) |
+| Hugging Face | [Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction) | 문서·실습 | 도구 호출·Agentic RAG·평가 · 실습 계정 필요 · [한국어 가이드](docs/ko/hf-agents/README.md) | [공식 교재](https://huggingface.co/learn/agents-course/ko/unit0/introduction) (영문판과 갱신 시점 차이) |
+| Hugging Face | [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) | 문서·실습 | 영어 · MCP 구조·도구 연결·앱 구현 · 실습 계정 필요 · [한국어 가이드](docs/ko/hf-mcp/README.md) | MCP 교재 번역본 미게시 |
+| Microsoft | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Version 3 · 21레슨 | 생성형 AI·Python/TypeScript 예제 | [공식 교재](https://github.com/microsoft/generative-ai-for-beginners/blob/main/translations/ko/README.md) |
+| Microsoft | [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) | 문서·영상·Python 예제 | 에이전트 설계·RAG·메모리·평가 · Azure 계정·서비스 비용 별도 · [한국어 가이드](docs/ko/ms-ai-agents/README.md) | [공식 교재 (자동 번역)](https://github.com/microsoft/ai-agents-for-beginners/blob/main/translations/ko/README.md) |
 
 ## 유튜브 채널
 
-| 채널 | 공개강의 | 공개자료 | 주요내용 |
-| --- | --- | --- | --- |
-| [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | [강의 노트·코드](https://github.com/karpathy/nn-zero-to-hero) | micrograd·makemore·GPT·BPE 토크나이저 구현 |
-| [Umar Jamil](https://www.youtube.com/@umarjamilai/videos) | [Building a distributed training framework from first principles](https://www.youtube.com/watch?v=XoGvCBRnwLs) | [TorchFeather 코드](https://github.com/hkproj/torchfeather) | **2026-08-18** · PyTorch 분산 학습·DDP·FSDP·파이프라인·텐서·전문가 병렬화 |
-| [Umar Jamil](https://www.youtube.com/@umarjamilai/videos) | [Coding a Transformer from scratch](https://www.youtube.com/watch?v=ISNdQcPhsts) | [구현 코드](https://github.com/hkproj/pytorch-transformer) | 2023 · Attention·Transformer·학습·추론 구현 |
-| [Vizuara](https://www.youtube.com/@vizuara) | [신경망 직접 구현](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) | 영상 설명란의 자료 링크 | 뉴런·레이어·활성함수 구현 |
-| [Vizuara](https://www.youtube.com/@vizuara) | [SLM 직접 만들기](https://www.youtube.com/watch?v=pOFcwcwtv3k) | [Colab 노트북](https://colab.research.google.com/drive/1k4G3G5MxYLxawmPfAknUN7dbbmyqldQv?usp=sharing)  | 소형 언어 모델 구현 |
-| [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) | [LLM 영상 목록](https://www.youtube.com/playlist?list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm) |  | LLM·추론 모델 원리·구현 |
-| [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) |  | [LLMs from Scratch 코드](https://github.com/rasbt/LLMs-from-scratch) | 토크나이저·Attention·LLM 구현·사전학습·미세조정 (PyTorch) |
-| [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) |  | [Reasoning from Scratch 코드](https://github.com/rasbt/reasoning-from-scratch) | 추론 모델 구현, 평가·추론 시 연산 확장·강화학습·증류 |
-| [Lera Andronova](https://www.youtube.com/@lerabyte) | [LLM 직접 구현 입문](https://www.youtube.com/watch?v=u1_qczBrhow) | [예제 코드](https://github.com/lerabyte/llm-build) | 언어 모델 원리·구현 |
-| [Justin Angel](https://www.youtube.com/@JustinAngelAI) | [Build Your Own LLM Workshop](https://www.youtube.com/playlist?list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6) | 영상 설명란의 자료 링크 | PyTorch·토크나이저·Attention·사전학습·평가·instruction tuning·강화학습 |
-| [Syntax](https://www.youtube.com/@syntaxfm) | [LLMs Explained](https://www.youtube.com/watch?v=YmLp8qe87A0) | [예제 코드](https://github.com/w3cj/how-llms-work) | 토큰·임베딩·Transformer 원리·구현 |
-| [AI Engineer](https://www.youtube.com/@aiDotEngineer) | [Training an LLM from Scratch, Locally](https://www.youtube.com/watch?v=UsB70Tf5zcE) |  | 로컬 LLM 학습 · Angelos Perivolaropoulos (ElevenLabs) |
+| 채널 | 공개강의 | 공개자료 | 주요내용 | 한국어 번역 |
+| --- | --- | --- | --- | --- |
+| [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | [강의 노트·코드](https://github.com/karpathy/nn-zero-to-hero) | micrograd·makemore·GPT·BPE 토크나이저 구현 | 실습 노트북 번역본 미게시 |
+| [Umar Jamil](https://www.youtube.com/@umarjamilai/videos) | [Building a distributed training framework from first principles](https://www.youtube.com/watch?v=XoGvCBRnwLs) | [TorchFeather 코드](https://github.com/hkproj/torchfeather) | **2026-08-18** · PyTorch 분산 학습·DDP·FSDP·파이프라인·텐서·전문가 병렬화 | 코드 주석 번역본 미게시 |
+| [Umar Jamil](https://www.youtube.com/@umarjamilai/videos) | [Coding a Transformer from scratch](https://www.youtube.com/watch?v=ISNdQcPhsts) | [구현 코드](https://github.com/hkproj/pytorch-transformer) | 2023 · Attention·Transformer·학습·추론 구현 | 코드 주석 번역본 미게시 |
+| [Vizuara](https://www.youtube.com/@vizuara) | [신경망 직접 구현](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu) | 영상 설명란의 자료 링크 | 뉴런·레이어·활성함수 구현 | 실습 노트북 번역본 미게시 |
+| [Vizuara](https://www.youtube.com/@vizuara) | [SLM 직접 만들기](https://www.youtube.com/watch?v=pOFcwcwtv3k) | [Colab 노트북](https://colab.research.google.com/drive/1k4G3G5MxYLxawmPfAknUN7dbbmyqldQv?usp=sharing)  | 소형 언어 모델 구현 | SLM 실습 번역본 미게시 |
+| [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) | [LLM 영상 목록](https://www.youtube.com/playlist?list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm) |  | LLM·추론 모델 원리·구현 | 해당 없음 (영상 목록) |
+| [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) |  | [LLMs from Scratch 코드](https://github.com/rasbt/LLMs-from-scratch) | 토크나이저·Attention·LLM 구현·사전학습·미세조정 (PyTorch) | [커뮤니티 번역 실습 목차](https://github.com/jkf87/LLMs-from-scratch-kr/blob/main/readme-kr.md) |
+| [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) |  | [Reasoning from Scratch 코드](https://github.com/rasbt/reasoning-from-scratch) | 추론 모델 구현, 평가·추론 시 연산 확장·강화학습·증류 | 공개 번역본 미확인 |
+| [Lera Andronova](https://www.youtube.com/@lerabyte) | [LLM 직접 구현 입문](https://www.youtube.com/watch?v=u1_qczBrhow) | [예제 코드](https://github.com/lerabyte/llm-build) | 언어 모델 원리·구현 | 교재·노트북 번역본 미게시 |
+| [Justin Angel](https://www.youtube.com/@JustinAngelAI) | [Build Your Own LLM Workshop](https://www.youtube.com/playlist?list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6) | 영상 설명란의 자료 링크 | PyTorch·토크나이저·Attention·사전학습·평가·instruction tuning·강화학습 | 공개 번역본 미확인 |
+| [Syntax](https://www.youtube.com/@syntaxfm) | [LLMs Explained](https://www.youtube.com/watch?v=YmLp8qe87A0) | [예제 코드](https://github.com/w3cj/how-llms-work) | 토큰·임베딩·Transformer 원리·구현 | 실습 코드 번역본 미게시 |
+| [AI Engineer](https://www.youtube.com/@aiDotEngineer) | [Training an LLM from Scratch, Locally](https://www.youtube.com/watch?v=UsB70Tf5zcE) |  | 로컬 LLM 학습 · Angelos Perivolaropoulos (ElevenLabs) | 교재 번역본 미게시 |

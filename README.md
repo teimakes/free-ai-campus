@@ -110,6 +110,8 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 
 | 채널 | 공개강의 | 공개자료 | 주요내용 | 한국어 번역 |
 | --- | --- | --- | --- | --- |
+| [오늘코드](https://www.youtube.com/@todaycode) | [Jupyter, Streamlit 대신 다음 세대를 위한 파이썬 Marimo](https://www.youtube.com/watch?v=D4o8PWIc2gs) | [marimo 공식 사이트](https://marimo.io/) | 국민연금 데이터 대시보드 시연, 반응형 셀 실행, Jupyter·Streamlit 비교, WebAssembly로 브라우저에서 Python 실행 | 한국어 원본 |
+| [오늘코드](https://www.youtube.com/@todaycode) | [왜 AI 로 쓴 글을 한번에 알아볼 수 있는가? AI가 쓴 티 지우는 방법](https://www.youtube.com/watch?v=KMwAvsDRxVk) | [한국어 윤문 스킬](https://github.com/epoko77-ai/im-not-ai) · [KatFishNet](https://github.com/Shinwoo-Park/katfishnet) | AI가 생성한 한국어 글의 문체 특징과 윤문 방법 | 한국어 원본 |
 | [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | [강의 노트·코드](https://github.com/karpathy/nn-zero-to-hero) | micrograd·makemore·GPT·BPE 토크나이저 구현 | 실습 노트북 번역본 미게시 |
 | [Umar Jamil](https://www.youtube.com/@umarjamilai/videos) | [Building a distributed training framework from first principles](https://www.youtube.com/watch?v=XoGvCBRnwLs) | [TorchFeather 코드](https://github.com/hkproj/torchfeather) | **2026-08-18** · PyTorch 분산 학습·DDP·FSDP·파이프라인·텐서·전문가 병렬화 | 코드 주석 번역본 미게시 |
 | [Umar Jamil](https://www.youtube.com/@umarjamilai/videos) | [Coding a Transformer from scratch](https://www.youtube.com/watch?v=ISNdQcPhsts) | [구현 코드](https://github.com/hkproj/pytorch-transformer) | 2023 · Attention·Transformer·학습·추론 구현 | 코드 주석 번역본 미게시 |

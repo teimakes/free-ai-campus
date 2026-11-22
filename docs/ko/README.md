@@ -4,9 +4,9 @@
 
 ## 한국어로 읽는 수업 자료
 
-| 수업 | 한국어로 읽을 수 있는 범위 |
+| 수업 | 한국어 번역본 |
 | --- | --- |
-| [Stanford CS336 언어 모델 구현](stanford-cs336/README.md) | 2026년 봄 한국어 슬라이드 PDF 8개(496쪽), Python 강의 9개, [과제 3 스케일링 법칙 PDF](stanford-cs336/assignment3-scaling/cs336_assignment3_scaling.pdf) |
+| Stanford CS336 | [강의 슬라이드 PDF 8개·Python 강의 파일 9개](stanford-cs336/README.md#강의) · [과제지 PDF 6개(과제 1~5와 과제 5 선택 보충자료)](stanford-cs336/README.md#과제) |
 
 ## 강좌별 자료 링크
 

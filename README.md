@@ -35,6 +35,7 @@ Free ML/DL, LLM, and AI agent lectures, notes, and code in Korean and English.
 | 에이전트·도구 연결 | [HF Agents](docs/ko/hf-agents/README.md) · [HF MCP](docs/ko/hf-mcp/README.md) · [Microsoft AI Agents](docs/ko/ms-ai-agents/README.md) | Python·LLM 기초, MCP는 API 개념 |
 
 [한국어 자료 전체 목록](docs/ko/README.md)
+| Python으로 에이전트 구현 | [그림으로 배우는 AI 에이전트 — 1~10장 한국어 실습](docs/ko/illustrated-ai-agents/README.md) | Python 3.12 이상, 2장부터 로컬 모델 서버 또는 호환 API |
 
 ## 한국 대학 공개강의
 
